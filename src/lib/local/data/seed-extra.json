@@ -1,0 +1,495 @@
+{
+  "courses": [
+    {
+      "slug": "observacao-nivel-detetive",
+      "title": "Observação de Nível Detetive",
+      "tagline": "Varredura em camadas, leitura de ambientes e os detalhes que entregam uma vida.",
+      "description": "O músculo que sustenta todas as outras habilidades do mentalista. Aprenda a postura de quem observa, a regra dos 5 segundos, o scan avançado de ambientes e como cruzar pistas antes de concluir qualquer coisa.",
+      "level": "Iniciante",
+      "category": "Observação",
+      "coverGradient": "from-sky-600 to-stone-900",
+      "accent": "#38bdf8",
+      "featured": false,
+      "free": true,
+      "order": 2,
+      "durationMinutes": 120,
+      "modules": [
+        {
+          "slug": "obs-intro",
+          "title": "1. A postura do observador",
+          "summary": "Filosofia de Jane: nunca ser o azarão, ser invisível e manter a calma.",
+          "quiz": "capitulo-02",
+          "lessons": [
+            {
+              "slug": "licao-obs-01",
+              "title": "O que a observação compra para você",
+              "summary": "Observação não é curiosidade: é vantagem silenciosa. Cada detalhe que você nota antes dos outros é informação que custa zero e rende o dobro.",
+              "durationMin": 3,
+              "kind": "lesson",
+              "order": 1,
+              "blocks": [
+                { "type": "p", "text": "Observação não é curiosidade: é <b>vantagem silenciosa</b>. Cada detalhe que você nota antes dos outros é informação que custa zero e rende o dobro. Neste minicurso você pratica o que Jane faz em segundos: varredura, ambiente e detalhes que entregam uma vida." },
+                { "type": "tip", "text": "<b>Compromisso:</b> nada aqui é talento. É treino diário de um músculo que todo mundo tem e quase ninguém usa." }
+              ]
+            },
+            { "ref": "licao-02", "order": 2 },
+            { "ref": "licao-03", "order": 3 },
+            { "ref": "licao-04", "order": 4 },
+            { "ref": "licao-05", "order": 5 }
+          ]
+        },
+        {
+          "slug": "obs-varredura",
+          "title": "2. Varredura em camadas",
+          "summary": "Do golpe de vista à leitura consciente, sempre na mesma ordem.",
+          "quiz": "capitulo-03",
+          "lessons": [
+            { "ref": "licao-07", "order": 1 },
+            { "ref": "licao-08", "order": 2 },
+            { "ref": "licao-11", "order": 3 }
+          ]
+        },
+        {
+          "slug": "obs-ambiente",
+          "title": "3. Ler o ambiente",
+          "summary": "Scan avançado e as 12 dimensões da leitura rápida de pessoas.",
+          "lessons": [
+            { "ref": "licao-09", "order": 1 },
+            { "ref": "licao-10", "order": 2 }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "leitura-a-frio",
+      "title": "Leitura a Frio: Cold Reading",
+      "tagline": "Efeito Barnum, boat statements, rainbow ruse e bait: a base de toda \"leitura de mentes\".",
+      "description": "Ninguém lê mentes — todo mundo calibra probabilidades com feedback. Domine o efeito Barnum, as 4 regras de ouro e o vocabulário das afirmações flutuantes para ter conversas que parecem feitas sob medida.",
+      "level": "Intermediário",
+      "category": "Leitura a frio",
+      "coverGradient": "from-fuchsia-600 to-stone-900",
+      "accent": "#e879f9",
+      "featured": false,
+      "free": true,
+      "order": 3,
+      "durationMinutes": 105,
+      "modules": [
+        {
+          "slug": "cr-fundamentos",
+          "title": "1. Fundamentos",
+          "summary": "Como a leitura a frio funciona e o motor Barnum/Forer.",
+          "quiz": "capitulo-04",
+          "lessons": [
+            {
+              "slug": "licao-cr-01",
+              "title": "Por que leitura a frio parece mágica",
+              "summary": "A ilusão nasce da colaboração: frases genéricas + preenchimento do cérebro de quem ouve.",
+              "durationMin": 3,
+              "kind": "lesson",
+              "order": 1,
+              "blocks": [
+                { "type": "p", "text": "A ilusão nasce da <b>colaboração</b>: você lança frases genéricas e o cérebro de quem ouve fecha as lacunas com a vida dela. Este minicurso transforma esse fenômeno em técnica ética: hits probabilísticos, observação real e calibração pela reação." }
+              ]
+            },
+            { "ref": "licao-13", "order": 2 },
+            { "ref": "licao-14", "order": 3 },
+            { "ref": "licao-15", "order": 4 }
+          ]
+        },
+        {
+          "slug": "cr-tecnicas",
+          "title": "2. O vocabulário da leitura",
+          "summary": "Boat, bait, rainbow e remendo: as afirmações que fazem a pessoa se abrir.",
+          "lessons": [
+            { "ref": "licao-17", "order": 1 },
+            { "ref": "licao-18", "order": 2 },
+            { "ref": "licao-19", "order": 3 },
+            { "ref": "licao-20", "order": 4 },
+            { "ref": "licao-21", "order": 5 }
+          ]
+        },
+        {
+          "slug": "cr-aperfeicoamento",
+          "title": "3. Aperfeiçoamento",
+          "summary": "Parecer feito sob medida e evitar os erros clássicos.",
+          "lessons": [
+            { "ref": "licao-22", "order": 1 },
+            { "ref": "licao-23", "order": 2 }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "linguagem-corporal",
+      "title": "Linguagem Corporal e Microexpressões",
+      "tagline": "As 5 zonas de leitura do corpo e as 7 emoções universais de Ekman.",
+      "description": "Um gesto isolado não prova nada; conjuntos e mudanças importam. Leia conforto e desconforto nas 5 zonas do corpo e reconheça as microexpressões que passam em frações de segundo.",
+      "level": "Intermediário",
+      "category": "Linguagem corporal",
+      "coverGradient": "from-emerald-500 to-stone-900",
+      "accent": "#34d399",
+      "featured": false,
+      "free": true,
+      "order": 4,
+      "durationMinutes": 100,
+      "modules": [
+        {
+          "slug": "lc-texto",
+          "title": "1. O corpo como texto",
+          "summary": "Regras de ouro, o eixo conforto/desconforto e os acessórios que falam.",
+          "quiz": "capitulo-05",
+          "lessons": [
+            {
+              "slug": "licao-lc-01",
+              "title": "Seu corpo também é lido",
+              "summary": "Enquanto você lê os outros, o seu corpo apresenta você. Postura, ritmo e gestos já começaram a conversa.",
+              "durationMin": 3,
+              "kind": "lesson",
+              "order": 1,
+              "blocks": [
+                { "type": "p", "text": "Enquanto você lê os outros, o <b>seu corpo também é lido</b>. Postura, ritmo e gestos já começaram a conversa antes da sua primeira palavra. A boa notícia: o mesmo repertório de leitura serve para autocrítica — o que você corrige em si multiplica sua leitura dos outros." }
+              ]
+            },
+            { "ref": "licao-24", "order": 2 },
+            { "ref": "licao-27", "order": 3 },
+            { "ref": "licao-28", "order": 4 }
+          ]
+        },
+        {
+          "slug": "lc-zonas",
+          "title": "2. As 5 zonas de leitura",
+          "summary": "Rosto, mãos, tronco, pernas e pés — a zona mais honesta é a que menos se ensaia.",
+          "lessons": [
+            { "ref": "licao-25", "order": 1 },
+            { "ref": "licao-29", "order": 2 }
+          ]
+        },
+        {
+          "slug": "lc-micro",
+          "title": "3. Microexpressões",
+          "summary": "As 7 emoções universais que aparecem por frações de segundo.",
+          "lessons": [
+            { "ref": "licao-26", "order": 1 }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "detector-de-mentiras",
+      "title": "O Detector de Mentiras Humano",
+      "tagline": "Baseline, teste do desvio e o método das 3 perguntas para perceber enganos.",
+      "description": "Sem dicionário de gestos e sem intuição mágica: você aprende a medir o comportamento normal de qualquer pessoa e a notar só o que desvia dele. A ferramenta de interrogatório mais elegante é o silêncio.",
+      "level": "Avançado",
+      "category": "Detecção de mentiras",
+      "coverGradient": "from-red-600 to-stone-900",
+      "accent": "#f87171",
+      "featured": false,
+      "free": true,
+      "order": 5,
+      "durationMinutes": 90,
+      "modules": [
+        {
+          "slug": "dm-baseline",
+          "title": "1. Baseline e pistas",
+          "summary": "A régua da verdade e os padrões de estresse de engano.",
+          "quiz": "capitulo-06",
+          "lessons": [
+            {
+              "slug": "licao-dm-01",
+              "title": "Verdade, engano e desconforto",
+              "summary": "Mentira não tem rosto. Tem estresse — e estresse só se mede em comparação com a linha de base.",
+              "durationMin": 3,
+              "kind": "lesson",
+              "order": 1,
+              "blocks": [
+                { "type": "p", "text": "Mentira não tem rosto: tem <b>estresse</b>, e estresse só se mede em comparação com a linha de base de cada pessoa. Quem diz a verdade sobre um trauma mostra mais sinais do que quem mente à vontade. Este minicurso te ensina a medir, não a decorar." }
+              ]
+            },
+            { "ref": "licao-30", "order": 2 },
+            { "ref": "licao-31", "order": 3 }
+          ]
+        },
+        {
+          "slug": "dm-teste",
+          "title": "2. Técnicas de teste",
+          "summary": "Perguntas de controle, o teste do desvio e as 3 perguntas.",
+          "lessons": [
+            { "ref": "licao-32", "order": 1 },
+            { "ref": "licao-33", "order": 2 },
+            { "ref": "licao-34", "order": 3 }
+          ]
+        },
+        {
+          "slug": "dm-silencio",
+          "title": "3. O interrogatório silencioso",
+          "summary": "O silêncio que confessa e o que fazer quando você pega a mentira.",
+          "lessons": [
+            { "ref": "licao-35", "order": 1 },
+            { "ref": "licao-36", "order": 2 }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "rapport-memoria-persuasao",
+      "title": "Rapport, Memória e Persuasão",
+      "tagline": "Espelhamento, palácio da memória, hipnose conversacional e os 6 princípios de Cialdini.",
+      "description": "O combo que transforma uma conversa qualquer em influência: conecte com rapport, lembre de tudo com técnica e guie a decisão com princípios verificados de psicologia.",
+      "level": "Intermediário",
+      "category": "Comunicação",
+      "coverGradient": "from-amber-500 to-stone-900",
+      "accent": "#fbbf24",
+      "featured": true,
+      "free": true,
+      "order": 6,
+      "durationMinutes": 150,
+      "modules": [
+        {
+          "slug": "rmp-rapport",
+          "title": "1. Rapport e escuta ativa",
+          "summary": "Escuta em 3 camadas, espelhamento e âncoras emocionais.",
+          "quiz": "capitulo-07",
+          "lessons": [
+            {
+              "slug": "licao-rmp-01",
+              "title": "O ciclo de Jane: conectar, lembrar, guiar",
+              "summary": "Primeiro as pessoas gostam de você, depois você lembra delas, e só então você pode conduzir.",
+              "durationMin": 3,
+              "kind": "lesson",
+              "order": 1,
+              "blocks": [
+                { "type": "p", "text": "O ciclo de Jane em três verbos: <b>conectar</b> (rapport), <b>lembrar</b> (memória), <b>guiar</b> (persuasão). Nenhum funciona sozinho. Este minicurso junta os três em sequência — e os quizzes de cada módulo revisam o ciclo completo." }
+              ]
+            },
+            { "ref": "licao-37", "order": 2 },
+            { "ref": "licao-38", "order": 3 },
+            { "ref": "licao-39", "order": 4 },
+            { "ref": "licao-41", "order": 5 },
+            { "ref": "licao-42", "order": 6 }
+          ]
+        },
+        {
+          "slug": "rmp-memoria",
+          "title": "2. A memória de Jane",
+          "summary": "Palácio da memória, nomes e rostos, caderno mental.",
+          "quiz": "capitulo-08",
+          "lessons": [
+            { "ref": "licao-43", "order": 1 },
+            { "ref": "licao-44", "order": 2 },
+            { "ref": "licao-45", "order": 3 }
+          ]
+        },
+        {
+          "slug": "rmp-hipnose",
+          "title": "3. Hipnose conversacional",
+          "summary": "Transe, pressuposições, duplo vínculo e comandos embutidos.",
+          "quiz": "capitulo-09",
+          "lessons": [
+            { "ref": "licao-47", "order": 1 },
+            { "ref": "licao-48", "order": 2 },
+            { "ref": "licao-49", "order": 3 }
+          ]
+        },
+        {
+          "slug": "rmp-persuasao",
+          "title": "4. Persuasão",
+          "summary": "Os 6 princípios de Cialdini, enquadramento e o passo do conselheiro.",
+          "quiz": "capitulo-10",
+          "lessons": [
+            { "ref": "licao-51", "order": 1 },
+            { "ref": "licao-52", "order": 2 },
+            { "ref": "licao-53", "order": 3 }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "autocontrole-estrategias",
+      "title": "Autocontrole e Estratégias",
+      "tagline": "Calma tática, personas, protocolo de entrevista e o plano de 30 dias.",
+      "description": "O jogo começa na sua cabeça. Aprenda a manter o pulso baixo sob pressão, a vestir as personas certas para cada sala, o protocolo completo de entrevista de Jane e o plano de 30 dias para virar tudo isso hábito.",
+      "level": "Avançado",
+      "category": "Psicologia aplicada",
+      "coverGradient": "from-indigo-600 to-stone-900",
+      "accent": "#818cf8",
+      "featured": false,
+      "free": true,
+      "order": 7,
+      "durationMinutes": 150,
+      "modules": [
+        {
+          "slug": "ae-mente",
+          "title": "1. A mente do jogo",
+          "summary": "Calma tática, fisiologia, destacamento e anti-tilt.",
+          "quiz": "capitulo-12",
+          "lessons": [
+            {
+              "slug": "licao-ae-01",
+              "title": "O jogo começa na sua cabeça",
+              "summary": "Antes de ler o outro, leia você: pulso baixo, atenção larga e o xadrez no seu tabuleiro.",
+              "durationMin": 3,
+              "kind": "lesson",
+              "order": 1,
+              "blocks": [
+                { "type": "p", "text": "Antes de ler o outro, <b>leia você</b>: pulso baixo, atenção larga e jogo no seu tabuleiro. Autocontrole não é frieza — é o estado que deixa suas técnicas funcionarem. É aqui que o mentalista de verdade é construído." }
+              ]
+            },
+            { "ref": "licao-60", "order": 2 },
+            { "ref": "licao-61", "order": 3 },
+            { "ref": "licao-62", "order": 4 },
+            { "ref": "licao-63", "order": 5 },
+            { "ref": "licao-64", "order": 6 }
+          ]
+        },
+        {
+          "slug": "ae-personas",
+          "title": "2. Personas",
+          "summary": "As 4 personas do mentalista e como usá-las sem ser falso.",
+          "quiz": "capitulo-13",
+          "lessons": [
+            { "ref": "licao-65", "order": 1 },
+            { "ref": "licao-66", "order": 2 },
+            { "ref": "licao-67", "order": 3 }
+          ]
+        },
+        {
+          "slug": "ae-protocolo",
+          "title": "3. Protocolo de entrevista",
+          "summary": "As 7 fases de Jane, perguntas abertas e o silêncio que confessa.",
+          "quiz": "capitulo-11",
+          "lessons": [
+            { "ref": "licao-54", "order": 1 },
+            { "ref": "licao-55", "order": 2 },
+            { "ref": "licao-57", "order": 3 }
+          ]
+        },
+        {
+          "slug": "ae-etica",
+          "title": "4. Ética e manutenção",
+          "summary": "O limite entre ferramenta e charlatanismo + a rotina que sustenta tudo.",
+          "quiz": "capitulo-16",
+          "lessons": [
+            { "ref": "licao-77", "order": 1 },
+            { "ref": "licao-76", "order": 2 }
+          ]
+        }
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "courseSlug": "o-metodo-patrick-jane",
+      "lessonSlug": "licao-08",
+      "title": "Cheatsheet: Regra dos 5 segundos",
+      "type": "cheatsheet",
+      "content": "Varredura de cima para baixo, sempre na mesma ordem:\n1. Rosto — higiene, olhos, rugas, cortes, maquiagem.\n2. Cabeça e pescoço — penteado, manchas, marca de sol, joias.\n3. Roupas — tipo, ajuste, limpeza, camadas, logotipos.\n4. Mãos — unhas, calos, aliança, relógio, pulseiras.\n5. Calçado — sola, tipo de sola, barro/areia, cadarços.\n6. Objetos — celular, copo, chaves, fones, adesivos.\nRegra do observador: conclua só com 3+ pistas independentes na mesma direção.",
+      "order": 1
+    },
+    {
+      "courseSlug": "leitura-a-frio",
+      "lessonSlug": "licao-17",
+      "title": "Boat statements prontos",
+      "type": "cheatsheet",
+      "content": "Frases flutuantes que a pessoa ancora com os próprios detalhes:\n- \"Você se preocupa em manter as coisas sob controle, às vezes mais do que deveria.\"\n- \"Você resolve problemas dos outros mais fácil do que resolve os seus.\"\n- \"Há uma decisão adiada que não é grande no papel, mas mexe com você.\"\nEfeito Barnum ajuda: descrições vagas + elogiosas parecem feitas sob medida para 95% das pessoas.",
+      "order": 2
+    },
+    {
+      "courseSlug": "linguagem-corporal",
+      "lessonSlug": "licao-26",
+      "title": "As 7 microexpressões de Ekman",
+      "type": "cheatsheet",
+      "content": "1. Felicidade — rugas nos cantos externos dos olhos (Duchenne).\n2. Tristeza — cantos da boca para baixo, sobrancelhas em asa.\n3. Medo — sobrancelhas levantadas e unidas, lábio esticado.\n4. Raiva — sobrancelhas para baixo, mandíbula cerrada.\n5. Nojo — nariz enrugado, lábio superior levantado.\n6. Surpresa — sobrancelhas altas, olhos abertos, lábios em O.\n7. Desprezo — um canto da boca elevado (unilateral).\nDuração: 1/25 a 1/5 de segundo. Treine no espelho e em entrevistas na TV.",
+      "order": 3
+    },
+    {
+      "courseSlug": "detector-de-mentiras",
+      "lessonSlug": "licao-32",
+      "title": "Teste do desvio em um card",
+      "type": "cheatsheet",
+      "content": "1. Mapeie a baseline em temas neutros.\n2. Toque o tema vigiado: o desconforto apareceu?\n3. Volte ao neutro: sumiu por completo? Então só existe no tema quente.\n4. Retorne ao tema: voltou no mesmo segundo? É um nervo exposto.\nControle positivo: pergunte algo que você já sabe e compare o estresse — ansiedade geral ≠ mentira.",
+      "order": 4
+    },
+    {
+      "courseSlug": "autocontrole-estrategias",
+      "lessonSlug": "licao-54",
+      "title": "Protocolo Jane em 7 fases",
+      "type": "cheatsheet",
+      "content": "1. Clima — elogio de entrada + chá/café (interrogado vira convidado).\n2. Baseline — 3 perguntas neutras verdadeiras.\n3. Isca — boat statement com 2 caminhos no tema central.\n4. Andaime — 3 perguntas pequenas que montam o cenário.\n5. Pressão indireta — escassez leve + silêncio de 5-8s.\n6. Contra-teste — detalhe falso disfarçado (P2).\n7. Fecho — resumo + compromisso + saída honrosa.",
+      "order": 5
+    },
+    {
+      "courseSlug": "rapport-memoria-persuasao",
+      "lessonSlug": "licao-43",
+      "title": "Palácio da memória passo a passo",
+      "type": "cheatsheet",
+      "content": "1. Escolha um percurso com 10 a 20 pontos fixos (porta, corredor, mesa, escada...).\n2. Relacione cada item que quer lembrar a um ponto.\n3. Crie uma imagem absurda e exagerada em cada ponto (estranho memoriza; comum esquece).\n4. Passeie pelo palácio para recuperar, na ordem ou pulando pontos.\nEx.: lista de compras em 4 pontos do seu corredor — quanto mais bizarro, melhor.",
+      "order": 6
+    },
+    {
+      "courseSlug": "o-metodo-patrick-jane",
+      "title": "Lista de exercícios MTD",
+      "type": "cheatsheet",
+      "content": "Rotina mínima (10 min/dia):\n- 5 observações no diário do observador (MTD1).\n- 1 palácio de memória com 5 itens (MTD14).\n- 1 microexpressão no espelho (MTD9).\nSemanal: teste do desvio (MTD11), espelho em conversa (MTD13), pressuposições (MTD17).\nRegra do mergulho: nunca ler a frio quem não pediu.",
+      "order": 7
+    },
+    {
+      "courseSlug": "o-metodo-patrick-jane",
+      "title": "Dois caminhos (frases de dois lados)",
+      "type": "cheatsheet",
+      "content": "Nunca afirme um lado só:\n- \"Você foi tímido na infância, ou então muito serelepe — mas teve um período difícil pelos 12-13 anos.\"\n- \"Trabalha com pessoas ou com números?\"\n- \"Você mudou algo recentemente: moradia, trabalho ou um término.\"\nA resposta + a reação entregam a pista; a correção é informação de graça.",
+      "order": 8
+    },
+    {
+      "courseSlug": "o-metodo-patrick-jane",
+      "title": "Referências clássicas",
+      "type": "link",
+      "url": "https://en.wikipedia.org/wiki/Cold_reading",
+      "content": "Cold reading na Wikipédia — visão geral da técnica e seus mecanismos.",
+      "order": 9
+    },
+    {
+      "courseSlug": "o-metodo-patrick-jane",
+      "title": "Efeito Barnum/Forer",
+      "type": "link",
+      "url": "https://en.wikipedia.org/wiki/Barnum_effect",
+      "content": "O motor por trás de horóscopos e leituras genéricas.",
+      "order": 10
+    },
+    {
+      "courseSlug": "linguagem-corporal",
+      "title": "Emotions Revealed — Paul Ekman",
+      "type": "link",
+      "url": "https://en.wikipedia.org/wiki/Emotions_Revealed",
+      "content": "O livro de referência sobre microexpressões e emoções básicas.",
+      "order": 11
+    },
+    {
+      "courseSlug": "rapport-memoria-persuasao",
+      "title": "Método de loci (palácio da memória)",
+      "type": "link",
+      "url": "https://en.wikipedia.org/wiki/Method_of_loci",
+      "content": "A técnica mnemônica de 2.500 anos usada por Simônides a Sherlock.",
+      "order": 12
+    }
+  ],
+  "achievements": [
+    { "slug": "member", "title": "Aluno matriculado", "description": "Matriculou-se em um curso.", "icon": "🎓", "condition": "enroll" },
+    { "slug": "first-lesson", "title": "Primeira observação", "description": "Complete sua primeira lição.", "icon": "👁", "condition": "lessons:1" },
+    { "slug": "five-lessons", "title": "Observador iniciante", "description": "Complete 5 lições.", "icon": "👀", "condition": "lessons:5" },
+    { "slug": "ten-lessons", "title": "Cruzando pistas", "description": "Complete 10 lições.", "icon": "🔍", "condition": "lessons:10" },
+    { "slug": "twenty-five-lessons", "title": "Varredura completa", "description": "Complete 25 lições.", "icon": "🧭", "condition": "lessons:25" },
+    { "slug": "first-quiz", "title": "Dedução confirmada", "description": "Passe em um quiz.", "icon": "✅", "condition": "quiz-pass" },
+    { "slug": "quiz-perfect", "title": "Leitura perfeita", "description": "Acerte 100% em um quiz.", "icon": "🎯", "condition": "quiz-perfect" },
+    { "slug": "notes-1", "title": "Anotações de trabalho", "description": "Escreva sua primeira anotação em uma lição.", "icon": "📝", "condition": "notes:1" },
+    { "slug": "flashcards-10", "title": "Memória de elefante", "description": "Revise 10 flashcards.", "icon": "🃏", "condition": "flashcards:10" },
+    { "slug": "flashcards-50", "title": "Palácio lotado", "description": "Revise 50 flashcards no total.", "icon": "🏛", "condition": "flashcards:50" },
+    { "slug": "streak-3", "title": "Sequência de prática", "description": "Estude 3 dias seguidos.", "icon": "🔥", "condition": "streak:3" },
+    { "slug": "streak-7", "title": "Uma semana de prática", "description": "Estude 7 dias seguidos.", "icon": "📅", "condition": "streak:7" },
+    { "slug": "half-course", "title": "Metade do jogo", "description": "Complete 50% do curso principal.", "icon": "⚔️", "condition": "course:50" },
+    { "slug": "course-complete", "title": "Mentalista", "description": "Complete 100% do Método Patrick Jane.", "icon": "🏆", "condition": "course:100" },
+    { "slug": "mini-complete", "title": "Especialista de área", "description": "Complete um dos minicursos por área.", "icon": "🌟", "condition": "mini:100" },
+    { "slug": "all-courses", "title": "Lenda do CBI", "description": "Complete todos os cursos da plataforma.", "icon": "🏅", "condition": "all:100" },
+    { "slug": "principios-cialdini", "title": "Mestre da influência", "description": "Complete o minicurso Rapport, Memória e Persuasão.", "icon": "🧲", "condition": "course:rapport-memoria-persuasao" },
+    { "slug": "mestre-observacao", "title": "Mestre da observação", "description": "Complete o minicurso Observação de Nível Detetive.", "icon": "🏹", "condition": "course:observacao-nivel-detetive" }
+  ]
+}

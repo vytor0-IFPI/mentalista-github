@@ -1,0 +1,14 @@
+ATRIBUIÇÃO DAS IMAGENS (Wikimedia Commons)
+
+Estas imagens estão sob licenças Creative Commons e exigem crédito ao autor:
+
+- public/series/avatars/jane.jpg  — File:Simon Baker 2013 4 (cropped).jpg — Georges Biard — CC BY-SA 3.0
+- public/series/avatars/lisboa.jpg — File:RobinTunneyHWOFFeb2013.jpg — Angela George — CC BY-SA 3.0
+- public/series/avatars/vanpelt.jpg — File:Amanda Righetti (2016).jpg — iDominick — CC BY-SA 2.0
+- public/series/bg.jpg — File:Simon Baker on set.jpg — Andrew Comings — CC BY 2.0
+
+Páginas de origem:
+- https://commons.wikimedia.org/wiki/File:Simon_Baker_2013_4_(cropped).jpg
+- https://commons.wikimedia.org/wiki/File:RobinTunneyHWOFFeb2013.jpg
+- https://commons.wikimedia.org/wiki/File:Amanda_Righetti_(2016).jpg
+- https://commons.wikimedia.org/wiki/File:Simon_Baker_on_set.jpg

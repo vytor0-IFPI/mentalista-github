@@ -1,0 +1,4 @@
+.devstore/
+.netlify/
+node_modules/
+dist/

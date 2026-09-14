@@ -1,0 +1,2240 @@
+{
+ "course": {
+  "slug": "o-metodo-patrick-jane",
+  "title": "O Método Patrick Jane",
+  "tagline": "Observação, leitura a frio, rapport, memória e influência do mentalista mais famoso da TV.",
+  "description": "Curso completo e didático, inspirado na série The Mentalist, com 18 capítulos, mais de 60 lições, quizzes e um plano de 30 dias para transformar curiosidade em habilidade. Técnicas reais de observação, leitura fria, linguagem corporal, memória, hipnose conversacional e persuasão.",
+  "level": "Todos os níveis",
+  "durationMinutes": 1472,
+  "moduleCount": 18,
+  "lessonCount": 79
+ },
+ "modules": [
+  {
+   "slug": "capitulo-01",
+   "title": "1. Quem é o Mentalista",
+   "summary": "Este manual transforma as habilidades mostradas na ficção em ferramentas reais e verificáveis, organizadas em módulos práticos. Cada módulo tem: teoria curta, t",
+   "lessons": [
+    {
+     "slug": "licao-01",
+     "title": "O que este guia ensina",
+     "summary": "Este manual transforma as habilidades mostradas na ficção em ferramentas reais e verificáveis, organizadas em módulos práticos. Cada módulo tem: teoria curta, técnica cla",
+     "durationMin": 3,
+     "kind": "lesson",
+     "order": 1,
+     "blocks": [
+      {
+       "type": "p",
+       "text": "Este manual transforma as habilidades <b>mostradas na ficção</b> em ferramentas <b>reais e verificáveis</b>, organizadas em módulos práticos. Cada módulo tem: teoria curta, técnica clara, exemplos e exercícios de treino. O objetivo não é “enganar” ninguém como o charlatão que Jane foi — é desenvolver um olhar aguçado, memória afiada e presença nas conversas."
+      }
+     ]
+    },
+    {
+     "slug": "licao-02",
+     "title": "Ficção × realidade",
+     "summary": "",
+     "durationMin": 7,
+     "kind": "lesson",
+     "order": 2,
+     "blocks": [
+      {
+       "type": "bullet",
+       "text": "<b>Ficção:</b> Jane sabe tudo com certeza de 100% em 3 segundos. (<i>Realidade:</i> ninguém adivinha com certeza; o que existe é probabilidade + teste + calibração.)"
+      },
+      {
+       "type": "bullet",
+       "text": "<b>Ficção:</b> Ele nunca se engana. (<i>Realidade:</i> mesmo leitores a frio profissionais acertam menos da metade das primeiras tentativas; a mágica está em <b>ajustar</b> com rapidez.)"
+      },
+      {
+       "type": "bullet",
+       "text": "<b>Ficção:</b> As pessoas “confessam” facilmente. (<i>Realidade:</i> convencer alguém a abrir o jogo exige rapport, paciência e boas perguntas — leva tempo.)"
+      },
+      {
+       "type": "bullet",
+       "text": "<b>Ficção:</b> A leitura é mágica. (<i>Realidade:</i> a leitura a frio funciona com heurísticas, viés de Barnum, linguagem positiva e feedback da vítima.)"
+      },
+      {
+       "type": "tip",
+       "text": "<b>O compromisso deste guia:</b> tudo o que você aprender aqui é baseado em psicologia e treino verificável. Se alguém te vender isso como “poder psíquico”, é golpe. Se algo aqui parecer mágico, é porque a técnica foi bem executada — e você mesmo poderá executar."
+      },
+      {
+       "type": "exercise",
+       "text": "MTD1 — Diário do observador. Abra um arquivo ou caderno e, a partir de hoje, registre 5 observações por dia sobre pessoas que você viu (roupa, gesto, tom, objetos). Isso ativa seu “músculo” de atenção antes de qualquer técnica."
+      }
+     ]
+    }
+   ],
+   "quiz": null
+  },
+  {
+   "slug": "capitulo-02",
+   "title": "2. A filosofia de Jane",
+   "summary": "Jane acredita que a maioria das pessoas se coloca em posição de fraqueza: pede desculpas, teme julgar, teme a autoridade. Ele faz o contrário: entra nas salas c",
+   "lessons": [
+    {
+     "slug": "licao-03",
+     "title": "“No underdog” — nunca ser o azarão",
+     "summary": "Jane acredita que a maioria das pessoas se coloca em posição de fraqueza: pede desculpas, teme julgar, teme a autoridade. Ele faz o contrário: entra nas salas como quem n",
+     "durationMin": 3,
+     "kind": "lesson",
+     "order": 1,
+     "blocks": [
+      {
+       "type": "p",
+       "text": "Jane acredita que a maioria das pessoas se coloca em posição de fraqueza: pede desculpas, teme julgar, teme a autoridade. Ele faz o contrário: entra nas salas como quem <b>não tem nada a temer</b> porque não tem nada a perder. Confiança serena, não arrogância barulhenta."
+      },
+      {
+       "type": "p",
+       "text": "<b>Como aplicar:</b> antes de entrar numa conversa, repita mentalmente: “Eu não preciso dessa aprovação. Estou aqui para observar.” A calma que isso gera muda sua postura, seu tom e — sem que você note — a disposição do outro."
+      }
+     ]
+    },
+    {
+     "slug": "licao-04",
+     "title": "Ser invisível e inofensivo",
+     "summary": "Uma das maiores armas de Jane é a fachada. Ele parece um excêntrico distraído, toma chá, faz piadas e conta histórias. Ninguém o percebe como ameaça — e é exatamente por ",
+     "durationMin": 3,
+     "kind": "lesson",
+     "order": 2,
+     "blocks": [
+      {
+       "type": "p",
+       "text": "Uma das maiores armas de Jane é a <b>fachada</b>. Ele parece um excêntrico distraído, toma chá, faz piadas e conta histórias. Ninguém o percebe como ameaça — e é exatamente por isso que as pessoas baixam a guarda e entregam tudo."
+      },
+      {
+       "type": "p",
+       "text": "<b>Como aplicar:</b> em observação, a postura ideal é a do <i>personagem de fundo</i>: postura relaxada, sorriso fácil, poucos julgamentos verbais, muitas perguntas interessadas. Quanto menos <i>importante</i> você parecer, mais informação real você coletará."
+      }
+     ]
+    },
+    {
+     "slug": "licao-05",
+     "title": "Acalmar o próprio nervo",
+     "summary": "Jane planeja, mas também improvisa — e nunca parece à beira de um ataque de nervos, mesmo quando está cercado. Dezenas de situações da série mostram ele respirando fundo,",
+     "durationMin": 3,
+     "kind": "lesson",
+     "order": 3,
+     "blocks": [
+      {
+       "type": "p",
+       "text": "Jane planeja, mas também improvisa — e nunca parece à beira de um ataque de nervos, mesmo quando está cercado. Dezenas de situações da série mostram ele respirando fundo, mudando o tema e fazendo uma piada para reabrir espaço mental. O estresse é o maior assassino de observação: ele estreita o foco."
+      },
+      {
+       "type": "p",
+       "text": "<b>Como aplicar:</b> treine a respiração 4-2-6 (inspirar 4s, segurar 2s, expirar 6s) antes de conversas importantes. Presença com pulso baixo é uma vantagem silenciosa enorme."
+      }
+     ]
+    },
+    {
+     "slug": "licao-06",
+     "title": "O jogo mental: “você joga na frente de um público que não está nos espectadores”",
+     "summary": "Para Jane, qualquer interação importante é uma partida de xadrez onde cada palavra é uma peça. Ele deixa o outro “jogar sua mão” para observar as escolhas. Recusar a pres",
+     "durationMin": 3,
+     "kind": "lesson",
+     "order": 4,
+     "blocks": [
+      {
+       "type": "p",
+       "text": "Para Jane, qualquer interação importante é uma partida de xadrez onde cada palavra é uma peça. Ele deixa o outro “jogar sua mão” para observar as escolhas. Recusar a pressa é a jogada mais elegante de todas: quando você não demonstra urgência, o outro começa a preencher o silêncio com informação."
+      },
+      {
+       "type": "quote",
+       "text": "“Calma. Eu tenho a minha própria agenda.”"
+      },
+      {
+       "type": "exercise",
+       "text": "MTD2 — A pausa de 5 segundos: nesta semana, sempre que alguém terminar de falar num assunto importante, espere 5 segundos em silêncio antes de responder. Observe o efeito: a maioria das pessoas preenche o vazio com uma informação a mais que não pretendia dar."
+      }
+     ]
+    }
+   ],
+   "quiz": null
+  },
+  {
+   "slug": "capitulo-03",
+   "title": "3. Observação — a base de tudo",
+   "summary": "Enxergar é passivo: a luz entra pelos olhos. Observar é ativo: você busca, compara e cruza. O primeiro exercício mental é transformar o hábito de “golpe de vist",
+   "lessons": [
+    {
+     "slug": "licao-07",
+     "title": "Observar x enxergar",
+     "summary": "Enxergar é passivo: a luz entra pelos olhos. Observar é ativo: você busca, compara e cruza. O primeiro exercício mental é transformar o hábito de “golpe de vista” em varr",
+     "durationMin": 3,
+     "kind": "lesson",
+     "order": 1,
+     "blocks": [
+      {
+       "type": "p",
+       "text": "Enxergar é passivo: a luz entra pelos olhos. Observar é ativo: você busca, compara e cruza. O primeiro exercício mental é transformar o hábito de “golpe de vista” em <b>varredura consciente</b> de regiões específicas, sempre na mesma ordem, para não esquecer nenhuma."
+      }
+     ]
+    },
+    {
+     "slug": "licao-08",
+     "title": "A regra dos 5 segundos",
+     "summary": "Jane frequentemente “le” uma pessoa inteira no tempo de um cumprimento. Com treino, dá para coletar dezenas de pistas em 5 segundos varrendo de cima para baixo, em camada",
+     "durationMin": 8,
+     "kind": "lesson",
+     "order": 2,
+     "blocks": [
+      {
+       "type": "p",
+       "text": "Jane frequentemente “le” uma pessoa inteira no tempo de um cumprimento. Com treino, dá para coletar dezenas de pistas em 5 segundos varrendo de cima para baixo, em camadas:"
+      },
+      {
+       "type": "bullet",
+       "text": "<b>Rosto:</b> higiene, olhos (claros, cansados, inchados), rugas de expressão, cortes, maquiagem, barba por fazer."
+      },
+      {
+       "type": "bullet",
+       "text": "<b>Cabeça e pescoço:</b> penteado (feito com cuidado ou no seco?), manchas, marca de sol, joias de significado religioso/pessoal."
+      },
+      {
+       "type": "bullet",
+       "text": "<b>Roupas:</b> tipo, ajuste, limpeza, dobras, reparos, estilo, quantidade de camadas, logotipos."
+      },
+      {
+       "type": "bullet",
+       "text": "<b>Mãos:</b> unhas, calos, aliança, queimaduras, tatuagens, anéis, pulseiras, relógio (no pulso de trabalho?)."
+      },
+      {
+       "type": "bullet",
+       "text": "<b>Calçado:</b> gasto na sola, tipo de sola, barro/areia/grama, cadarços, biqueiras, sapato do trabalho ou do lazer?"
+      },
+      {
+       "type": "bullet",
+       "text": "<b>Objetos:</b> telefone (capa, tela rachada), bolsas, chaves, copo (café? suco?), fones, adesivos."
+      }
+     ]
+    },
+    {
+     "slug": "licao-09",
+     "title": "A leitura “advance scan” do ambiente",
+     "summary": "Antes de conversar com alguém, Jane já sabe onde está e quem está por perto. Isso é o scan avançado: ao entrar em qualquer ambiente, varra (1) a geometria, (2) as pessoas",
+     "durationMin": 5,
+     "kind": "lesson",
+     "order": 3,
+     "blocks": [
+      {
+       "type": "p",
+       "text": "Antes de conversar com alguém, Jane já sabe onde está e quem está por perto. Isso é o <b>scan avançado</b>: ao entrar em qualquer ambiente, varra (1) a geometria, (2) as pessoas e (3) as saídas."
+      },
+      {
+       "type": "bullet",
+       "text": "<b>Geometria:</b> onde ficam portas, janelas, câmeras, mesas, saídas de emergência; quem fica de costas para a porta; quem senta de frente."
+      },
+      {
+       "type": "bullet",
+       "text": "<b>Pessoas:</b> quantos grupos, quem conversa com quem (quem inicia? quem escuta? quem olha para o relógio?)."
+      },
+      {
+       "type": "bullet",
+       "text": "<b>Saídas e rotas:</b> posicione-se de forma a ver a porta principal; isso instala confiança e controle."
+      }
+     ]
+    },
+    {
+     "slug": "licao-10",
+     "title": "Os 12 pilares da leitura rápida de pessoas",
+     "summary": "Sempre que encontrar alguém, cruze estas 12 dimensões. Nenhuma sozinha “diz tudo”; o poder está no cruzamento:",
+     "durationMin": 14,
+     "kind": "lesson",
+     "order": 4,
+     "blocks": [
+      {
+       "type": "p",
+       "text": "Sempre que encontrar alguém, cruze estas 12 dimensões. Nenhuma sozinha “diz tudo”; o poder está no <b>cruzamento</b>:"
+      },
+      {
+       "type": "bullet",
+       "text": "1. Estado de energia (agitado? letárgico?)"
+      },
+      {
+       "type": "bullet",
+       "text": "2. Humor (feliz, defensivo, ansioso, irritado?)"
+      },
+      {
+       "type": "bullet",
+       "text": "3. Autoestima presumida (postura alta ou encolhida?)"
+      },
+      {
+       "type": "bullet",
+       "text": "4. Classe social presumida (marcas, sotaque, temas sabidos)"
+      },
+      {
+       "type": "bullet",
+       "text": "5. Ocupação (calos? terno? cadernos? ferramentas?)"
+      },
+      {
+       "type": "bullet",
+       "text": "6. Estado de saúde (cansaço, tosse, palidez, dependências)"
+      },
+      {
+       "type": "bullet",
+       "text": "7. Rotina (identificável pelas marcas de uso)"
+      },
+      {
+       "type": "bullet",
+       "text": "8. Relações e anéis/alianças (casado? recém-casado? luto?)"
+      },
+      {
+       "type": "bullet",
+       "text": "9. Prioridades (o que ele checou no celular antes de falar?)"
+      },
+      {
+       "type": "bullet",
+       "text": "10. Relaxamento (o que faz no tempo livre — pistas no corpo)"
+      },
+      {
+       "type": "bullet",
+       "text": "11. Nível de pressa (olha o relógio? responde curto?)"
+      },
+      {
+       "type": "bullet",
+       "text": "12. O que ele quer de você (interesse? prova? aprovação?)"
+      }
+     ]
+    },
+    {
+     "slug": "licao-11",
+     "title": "Detalhes pequenos que entregam uma vida",
+     "summary": "",
+     "durationMin": 9,
+     "kind": "lesson",
+     "order": 5,
+     "blocks": [
+      {
+       "type": "bullet",
+       "text": "<b>Marca de sol no dedo anelar + pele mais clara no meio:</b> usou anel até recentemente (separação, perda ou trocou de emprego)."
+      },
+      {
+       "type": "bullet",
+       "text": "<b>Calo na base dos dedos da mão direita com mão esquerda limpa:</b> provavelmente canhoto não usa isso da direita — melhor: segura instrumento (caneta, ferramenta)."
+      },
+      {
+       "type": "bullet",
+       "text": "<b>Unhas pintadas descascando + cutículas por fazer:</b> preguiça não — provavelmente esmaltou para uma ocasião e não teve tempo de cuidar (evento recente)."
+      },
+      {
+       "type": "bullet",
+       "text": "<b>Barba mais falha numa região do queixo:</b> costuma manter um estilo e mudou de visual nos últimos dias."
+      },
+      {
+       "type": "bullet",
+       "text": "<b>Óculos com arranhões na lente esquerda na altura das bochechas:</b> dorme/alivia o rosto sobre o lado esquerdo (rotina de sono), ou apoia a cabeça na mão esquerda ao ler."
+      },
+      {
+       "type": "bullet",
+       "text": "<b>Braço com marca de relógio inexistente num sábado à noite:</b> tirou porque trabalha de terno? Ou o relógio é só ferramenta de trabalho."
+      }
+     ]
+    },
+    {
+     "slug": "licao-12",
+     "title": "Exercícios mentais do treino de observação",
+     "summary": "Observação é habilidade; habilidade é treino. Faça isto diariamente durante 2 semanas:",
+     "durationMin": 3,
+     "kind": "lesson",
+     "order": 6,
+     "blocks": [
+      {
+       "type": "p",
+       "text": "Observação é habilidade; habilidade é treino. Faça isto diariamente durante 2 semanas:"
+      },
+      {
+       "type": "exercise",
+       "text": "MTD3 — Treino do supermercado. Ao entrar em qualquer fila, escolha uma pessoa e monte, em 5 segundos, 8 afirmações sobre ela (idade, humor, profissão provável, de onde veio, estado civil, o que comprou, pressa, classe). Após ela sair, valide pelas pistas seguintes e anote onde errou. Repita 3 vezes ao dia."
+      },
+      {
+       "type": "exercise",
+       "text": "MTD4 — Foto “memória em 10 segundos”. Olhe uma foto de uma pessoa desconhecida por 10 segundos. Vire o papel e escreva 10 detalhes. Depois reabra e confira. Vá aumentando a dificuldade (fotos em grupo, cenas de rua)."
+      },
+      {
+       "type": "exercise",
+       "text": "MTD5 — O jogo do “fora do lugar”. Em qualquer ambiente, escolha 3 coisas que estão <b>fora do lugar</b> (a lixeira cheia num escritório limpo, cadeira virada, caneca com dois cafés gelados). Pergunte-se: qual história isso conta? É o treino da <i>anomalia</i> — a base para “sem querer” descobrir coisas."
+      },
+      {
+       "type": "tip",
+       "text": "<b>Regra do observador:</b> nunca conte a conclusão antes de ter pelo menos 3 pistas independentes que apontem para a mesma direção. Jane “sabe” rápido porque juntou 3+ pistas em segundos — não porque é mágico."
+      }
+     ]
+    }
+   ],
+   "quiz": null
+  },
+  {
+   "slug": "capitulo-04",
+   "title": "4. Leitura a frio (cold reading)",
+   "summary": "Quem lê a frio nunca sabe nada a priori. Ele trabalha com hits probabilísticos (afirmações com alta chance de serem verdadeiras para qualquer pessoa), observa a",
+   "lessons": [
+    {
+     "slug": "licao-13",
+     "title": "Como a leitura a frio funciona de verdade",
+     "summary": "Quem lê a frio nunca sabe nada a priori. Ele trabalha com hits probabilísticos (afirmações com alta chance de serem verdadeiras para qualquer pessoa), observa a recepção ",
+     "durationMin": 3,
+     "kind": "lesson",
+     "order": 1,
+     "blocks": [
+      {
+       "type": "p",
+       "text": "Quem lê a frio nunca sabe nada a priori. Ele trabalha com <b>hits probabilísticos</b> (afirmações com alta chance de serem verdadeiras para qualquer pessoa), observa a <b>recepção</b> (olhos, respiração, correção verbal) e calibra na hora. A vítima colabora porque o cérebro humano busca padrões e “fecha” lacunas — uma afirmação genérica é interpretada como feita sob medida."
+      }
+     ]
+    },
+    {
+     "slug": "licao-14",
+     "title": "O Efeito Barnum (ou Forer)",
+     "summary": "O psicólogo Bertram Forer deu um mesmo “perfil de personalidade” genérico a seus alunos e todos o avaliaram como “espantosamente preciso”. Isso funciona porque o texto é ",
+     "durationMin": 3,
+     "kind": "lesson",
+     "order": 2,
+     "blocks": [
+      {
+       "type": "p",
+       "text": "O psicólogo Bertram Forer deu um mesmo “perfil de personalidade” genérico a seus alunos e todos o avaliaram como “espantosamente preciso”. Isso funciona porque o texto é recheado de qualidades elogiosas e contradições elegantes que descrevem <b>todo mundo</b>. O truque genérico clássico:"
+      },
+      {
+       "type": "quote",
+       "text": "“Você tem uma grande necessidade de que outras pessoas gostem e admirem você. Você se critica muito, mas tende a ser duro demais consigo mesmo. Embora você tenha fraquezas de caráter, geralmente consegue compensá-las. Você é uma pessoa que, no fundo, se sente incompreendida.”"
+      },
+      {
+       "type": "p",
+       "text": "Toda essa frase é verdade para praticamente 95% dos seres humanos. A diferença entre um charlatão e um observador de verdade é que Jane troca as frases genéricas por informação <b>observada</b> — e aí a “precisão” dispara."
+      }
+     ]
+    },
+    {
+     "slug": "licao-15",
+     "title": "As 4 regras de ouro da leitura a frio",
+     "summary": "",
+     "durationMin": 7,
+     "kind": "lesson",
+     "order": 3,
+     "blocks": [
+      {
+       "type": "bullet",
+       "text": "<b>1. Comece macro, termine micro:</b> frase genérica primeiro, detalhe observado depois. Ex.: “Você está com algo na cabeça hoje... provavelmente trabalho ou família” (macro) e aí, olhando a ala do celular/caneca, afine (“...mais trabalho do que família, pelo jeito o telefone não para”)."
+      },
+      {
+       "type": "bullet",
+       "text": "<b>2. Use a linguagem de dois caminhos:</b> nunca afirme um lado só. “Você foi uma criança tímida, ou então o contrário — muito serelepe. Mas teve um período difícil lá pelos 12 ou 13 anos.” Sempre uma parte “funciona”."
+      },
+      {
+       "type": "bullet",
+       "text": "<b>3. Julgue pela reação, não pela resposta:</b> o que importa é o que os olhos, a respiração e o silêncio dizem antes da fala. O que a pessoa <b>corrige</b> é o que ela mais quer esconder."
+      },
+      {
+       "type": "bullet",
+       "text": "<b>4. Sempre volte ao positivo:</b> encerre cada leitura com uma camada elogiosa. “...mas essa fase passou e o que sobra é uma pessoa mais forte e seletiva.” Isso amplifica a “precisão” percebida."
+      }
+     ]
+    },
+    {
+     "slug": "licao-16",
+     "title": "A regra dos 5 segundos na prática",
+     "summary": "Ao conhecer alguém, lance a pergunta-isca antes do aperto de mão terminar: “Você trabalha há muito tempo com [...]” preenchendo com a profissão provável pelas pistas. A e",
+     "durationMin": 3,
+     "kind": "lesson",
+     "order": 4,
+     "blocks": [
+      {
+       "type": "p",
+       "text": "Ao conhecer alguém, lance a pergunta-isca antes do aperto de mão terminar: “Você trabalha há muito tempo com <i>[...]”</i> preenchendo com a profissão provável pelas pistas. A entonação de pergunta humilde (não de afirmação) faz a pessoa <b>corrigir você na hora</b> — e cada correção é informação de graça."
+      }
+     ]
+    },
+    {
+     "slug": "licao-17",
+     "title": "Boat statements — afirmações flutuantes",
+     "summary": "“Boat statement” é uma afirmação vaga que “flutua” até a pessoa ancorá-la com detalhes. Você lança o barco; ela constrói o porto. Exemplos universais:",
+     "durationMin": 5,
+     "kind": "lesson",
+     "order": 5,
+     "blocks": [
+      {
+       "type": "p",
+       "text": "“Boat statement” é uma afirmação vaga que “flutua” até a pessoa ancorá-la com detalhes. Você lança o barco; ela constrói o porto. Exemplos universais:"
+      },
+      {
+       "type": "bullet",
+       "text": "“Você se preocupa em manter as coisas sob controle, às vezes mais do que deveria.”"
+      },
+      {
+       "type": "bullet",
+       "text": "“Você tem um jeito de resolver problemas dos outros mais fácil do que resolve os seus.”"
+      },
+      {
+       "type": "bullet",
+       "text": "“Há uma decisão que você adiou, que não é grande coisa no papel, mas que mexe com você.”"
+      },
+      {
+       "type": "p",
+       "text": "Perceba: fazem a pessoa <b>preencher</b> com o caso dela. Depois, quando ela fala, você repete as palavras DELAS como se fossem sua confirmação: “Exato, foi o que eu vi.”"
+      }
+     ]
+    },
+    {
+     "slug": "licao-18",
+     "title": "Rainbow Ruse — o truque do arco-íris",
+     "summary": "Estratégia que enrola uma mesma característica numa faixa de extremos para garantir um acerto: “Você tende a ser bastante confiante na frente dos outros, mas em silêncio ",
+     "durationMin": 3,
+     "kind": "lesson",
+     "order": 6,
+     "blocks": [
+      {
+       "type": "p",
+       "text": "Estratégia que enrola uma mesma característica numa faixa de extremos para garantir um acerto: “Você tende a ser bastante confiante na frente dos outros, mas em silêncio duvida de si mais do que demonstra.” Qualquer que seja o verdadeiro estado, a frase “bate”. O truque é sair da zona segura só depois de uma conexão."
+      }
+     ]
+    },
+    {
+     "slug": "licao-19",
+     "title": "Bait statements — a isca declarativa",
+     "summary": "Você faz uma afirmação que obriga a pessoa a corrigir ou confirmar; a reação é o que você interpreta. “Pelo anel, você acabou de casar, não foi? Faz poucos meses?” Se ela",
+     "durationMin": 3,
+     "kind": "lesson",
+     "order": 7,
+     "blocks": [
+      {
+       "type": "p",
+       "text": "Você faz uma afirmação que <b>obriga</b> a pessoa a corrigir ou confirmar; a reação é o que você interpreta. “Pelo anel, você acabou de casar, não foi? Faz poucos meses?” Se ela responde “Na verdade faz 3 anos” — você já sabe que o casamento é parte central da vida dela (defensiva), mesmo “errando”. O erro <b>foi a técnica</b>, não a falha."
+      }
+     ]
+    },
+    {
+     "slug": "licao-20",
+     "title": "A leitura remendo: “do que parece ser”",
+     "summary": "Variação favorita de leitores profissionais: “Não sei se isso se aplica, mas parece que você daria para mim uma impressão de tranquilidade externa com um mundo interno ag",
+     "durationMin": 3,
+     "kind": "lesson",
+     "order": 8,
+     "blocks": [
+      {
+       "type": "p",
+       "text": "Variação favorita de leitores profissionais: “Não sei se isso se aplica, mas parece que <b>você daria para mim uma impressão de tranquilidade externa com um mundo interno agitado</b>”. O “não sei se se aplica” retira a pressão de estar certo, mantém a imagem honesta e dá à pessoa liberdade para confirmar — quase sempre confirma."
+      }
+     ]
+    },
+    {
+     "slug": "licao-21",
+     "title": "Leitura específica: idade, trabalho e estado de vida",
+     "summary": "Afirme um intervalo e observe a reação: “Você me passa uma energia de alguém com seus 30 e poucos, mas com uma maturidade de quem viveu mais”. A correção — “tenho 27” ou ",
+     "durationMin": 3,
+     "kind": "lesson",
+     "order": 9,
+     "blocks": [
+      {
+       "type": "h3",
+       "text": "Idade presumida"
+      },
+      {
+       "type": "p",
+       "text": "Afirme um intervalo e observe a reação: “Você me passa uma energia de alguém com seus 30 e poucos, mas com uma maturidade de quem viveu mais”. A correção — “tenho 27” ou “tenho 44” — é o acerto invisível."
+      },
+      {
+       "type": "h3",
+       "text": "Trabalho presumido"
+      },
+      {
+       "type": "p",
+       "text": "Mire nas pistas físicas e na ansiedade: “Pelo jeito hoje foi um dia cheio, com reunião que tomou tempo demais” (quase todo mundo tem um dia assim). Se acertar o contexto, calibra: “Você precisa lidar com gente o dia inteiro”."
+      },
+      {
+       "type": "h3",
+       "text": "Estado de vida"
+      },
+      {
+       "type": "p",
+       "text": "“Você mudou algo na sua vida recentemente — pode ter sido moradia, trabalho ou um término.” Variação de dois caminhos novamente. As reações costumam ser o verbo que você precisa."
+      }
+     ]
+    },
+    {
+     "slug": "licao-22",
+     "title": "Como fazer parecer “feito sob medida”",
+     "summary": "",
+     "durationMin": 5,
+     "kind": "lesson",
+     "order": 10,
+     "blocks": [
+      {
+       "type": "bullet",
+       "text": "Use informações observadas do ambiente dele (objeto, foto, livro) como “gatilho” de abertura."
+      },
+      {
+       "type": "bullet",
+       "text": "Repita as palavras exatas que o outro usou logo depois, como se estivesse confirmando sua previsão."
+      },
+      {
+       "type": "bullet",
+       "text": "Nunca dê tudo de uma vez: solte 1 hit, espere, solte outro. Ritmo de mágica, não de goteira."
+      },
+      {
+       "type": "bullet",
+       "text": "Encerre com uma sugestão-síntese: “No fundo você já sabia disso — só queria ouvir.”"
+      }
+     ]
+    },
+    {
+     "slug": "licao-23",
+     "title": "Erros clássicos do leitor iniciante",
+     "summary": "",
+     "durationMin": 9,
+     "kind": "lesson",
+     "order": 11,
+     "blocks": [
+      {
+       "type": "bullet",
+       "text": "Afirmar com certeza absoluta logo na primeira frase (morre na primeira correção)."
+      },
+      {
+       "type": "bullet",
+       "text": "Interromper a resposta da pessoa para “completar” a leitura."
+      },
+      {
+       "type": "bullet",
+       "text": "Ignorar a linguagem corporal e focar só nas palavras."
+      },
+      {
+       "type": "bullet",
+       "text": "Jogar 10 boat statements em sequência — vira adivinhação barata e perde o cálculo."
+      },
+      {
+       "type": "bullet",
+       "text": "Não calib(ar): insistir numa hipótese que a reação já derrubou."
+      },
+      {
+       "type": "exercise",
+       "text": "MTD6 — Barnum testado. Imprima (de memória) o texto de Forer acima e leia para 3 amigos, dizendo que foi uma “análise feita para você”. Anote: quantos disseram “inacreditável”? Isso prova que a vaga funciona — e que qualquer “precisão” vem do preenchimento do outro, não de você."
+      },
+      {
+       "type": "exercise",
+       "text": "MTD7 — Conversa-caixinha. Em 2 encontros sociais, pratique a sequência: (1) abertura vaga com 2 caminhos, (2) espera silenciosa, (3) repetição das palavras dele, (4) fechamento positivo. No fim da conversa, anote o que acertou e o que errou. Meta: subir de 30% para 60% de “acertos” percebidos em 30 dias."
+      },
+      {
+       "type": "exercise",
+       "text": "MTD8 — Leitura de vitrine. Na rua, escolha 5 desconhecidos de longe e monte um perfil de 5 linhas (trabalho, humor, pressa, estado civil, objetivo). Depois aproxime-se só para testar 2 itens com a conversa-isca. Este é o treino mais corajoso e o que mais ensina."
+      }
+     ]
+    }
+   ],
+   "quiz": null
+  },
+  {
+   "slug": "capitulo-05",
+   "title": "5. Linguagem corporal e microexpressões",
+   "summary": "Regra 1: um gesto isolado não prova nada. “Braços cruzados” pode ser frio, conforto ou postura. Só vale quando aparece num conjunto e mudando no momento certo.",
+   "lessons": [
+    {
+     "slug": "licao-24",
+     "title": "O corpo não mente — mas não é truque único",
+     "summary": "",
+     "durationMin": 4,
+     "kind": "lesson",
+     "order": 1,
+     "blocks": [
+      {
+       "type": "bullet",
+       "text": "Regra 1: <b>um gesto isolado não prova nada.</b> “Braços cruzados” pode ser frio, conforto ou postura. Só vale quando aparece num <b>conjunto</b> e mudando no momento certo."
+      },
+      {
+       "type": "bullet",
+       "text": "Regra 2: <b>o gesto só importa na mudança.</b> O que convence é o <i>antes/depois</i> — a mão que estava solta e de repente cobre a boca quando você tocou num tema."
+      },
+      {
+       "type": "bullet",
+       "text": "Regra 3: <b>baseline primeiro, exceção depois.</b> Só “lemos” o que é diferente do normal da pessoa."
+      }
+     ]
+    },
+    {
+     "slug": "licao-25",
+     "title": "As 5 zonas de leitura",
+     "summary": "Os olhos são a vitrine: quando alguém pensa e mente, o contato visual muda de padrão (ver cap. 6). Pupilas dilatam com interesse, excitação ou medo (atenção: também com l",
+     "durationMin": 6,
+     "kind": "lesson",
+     "order": 2,
+     "blocks": [
+      {
+       "type": "h3",
+       "text": "Zona 1 — Rosto e olhos"
+      },
+      {
+       "type": "p",
+       "text": "Os olhos são a vitrine: quando alguém pensa e mente, o contato visual muda de padrão (ver cap. 6). Pupilas dilatam com interesse, excitação ou medo (atenção: também com luz e cafeína). As sobrancelhas sobem em surpresa genuína e se contraem em tensão. Sobrancelhas levantadas e mantidas = estado de alerta. Um riso curto e seco (exalação pela boca) costuma ser de desconforto: o som é mais “huff” que “ha ha”."
+      },
+      {
+       "type": "h3",
+       "text": "Zona 2 — Mãos e braços"
+      },
+      {
+       "type": "p",
+       "text": "Mãos são o telégrafo de quem fala isso: apontar o dedo mostra poder ou acusação; entrelaçar os dedos sob tensão; esfregar as mãos = expectativa ou frio; mãos cruzadas atrás do corpo = comportamento de quem se segura para não explodir ou não atacar; mexer na nuca = sobrecarga. Tocar o pescoço, o colar ou o lóbulo da orelha é o gesto clássico de autorregulação quando o tema incomoda."
+      },
+      {
+       "type": "h3",
+       "text": "Zona 3 — Tronco"
+      },
+      {
+       "type": "p",
+       "text": "O tronco aponta para onde a atenção quer ir: quando ele gira o tronco em direção a você, há interesse; quando vira ligeiramente para o lado ou para a porta, há desejo de sair. Inclinar-se para trás no final da frase = distanciamento; inclinar-se para frente = envolvimento (cuidado: também pode ser invasão). A barriga rasa num tema específico (respiração que segura) denuncia tensão."
+      },
+      {
+       "type": "h3",
+       "text": "Zona 4 — Pernas"
+      },
+      {
+       "type": "p",
+       "text": "Pernas cruzadas com o pé balançando = energia represada ou impaciência. Um pé que aponta para a porta “mostra” o desejo de sair. Quando alguém está falando e de repente descruza e cruza as pernas na direção oposta, houve mudança de ânimo — observe o tema daquele momento."
+      },
+      {
+       "type": "h3",
+       "text": "Zona 5 — Pés"
+      },
+      {
+       "type": "p",
+       "text": "É a zona mais honesta (pouca gente ensaius): pernas cruzadas na direção de alguém = envolvimento; pés que batem no chão = ansiedade; pés que se escondem para trás de uma cadeira ou sob o corpo = retraimento. Mudança de posição dos pés é um dos alertas mais confiáveis."
+      }
+     ]
+    },
+    {
+     "slug": "licao-26",
+     "title": "Microexpressões — as 7 emoções básicas",
+     "summary": "Paul Ekman mapeou expressões faciais universais que duram frações de segundo (1/25 a 1/5 de segundo). O sorriso “Duchenne” (olhos enrugados nas laterais, contorno dos olh",
+     "durationMin": 10,
+     "kind": "lesson",
+     "order": 3,
+     "blocks": [
+      {
+       "type": "p",
+       "text": "Paul Ekman mapeou expressões faciais universais que duram frações de segundo (1/25 a 1/5 de segundo). O sorriso “Duchenne” (olhos enrugados nas laterais, contorno dos olhos) é genuíno; o sorriso sóda boca é social. As 7 para treinar:"
+      },
+      {
+       "type": "bullet",
+       "text": "<b>Felicidade:</b> zíperes (rugas) nos cantos externos dos olhos, bochechas em meia-lua, boca aberta."
+      },
+      {
+       "type": "bullet",
+       "text": "<b>Tristeza:</b> cantos da boca para baixo, sobrancelhas em “asa” (cantos internos levantados), olhos murchos."
+      },
+      {
+       "type": "bullet",
+       "text": "<b>Medo:</b> sobrancelhas levantadas e unidas, olhos abertos, lábios esticados para trás."
+      },
+      {
+       "type": "bullet",
+       "text": "<b>Raiva:</b> sobrancelhas para baixo e unidas, tensão no olhar, mandíbula cerrada, narinas alargadas."
+      },
+      {
+       "type": "bullet",
+       "text": "<b>Nojo:</b> nariz enrugado, lábio superior levantado, bochechas ao alto."
+      },
+      {
+       "type": "bullet",
+       "text": "<b>Surpresa:</b> sobrancelhas altas e arqueadas, olhos bem abertos, lábios em “O” — rápida e breve."
+      },
+      {
+       "type": "bullet",
+       "text": "<b>Desprezo:</b> um canto da boca elevado (assimétrico), olho em meio apertado. É unilateral."
+      },
+      {
+       "type": "exercise",
+       "text": "MTD9 — Face no espelho. Em casa, treine executar e reconhecer as 7 microexpressões diante de um espelho, cronometrando 1-2 segundos cada. Meta: reconhecer as 3 expressões mais rápidas de Ekman na TV (medo, raiva, desprezo) antes do corte de cena."
+      }
+     ]
+    },
+    {
+     "slug": "licao-27",
+     "title": "Conforto × desconforto — o eixo que muda tudo",
+     "summary": "Em vez de decorar 200 gestos, aprenda o eixo: conforto gera soltura, expansão, ritmo; desconforto gera contenção, rigidez, fricção. Sinais de desconforto que Jane vigia:",
+     "durationMin": 8,
+     "kind": "lesson",
+     "order": 4,
+     "blocks": [
+      {
+       "type": "p",
+       "text": "Em vez de decorar 200 gestos, aprenda o eixo: <b>conforto</b> gera soltura, expansão, ritmo; <b>desconforto</b> gera contenção, rigidez, fricção. Sinais de desconforto que Jane vigia:"
+      },
+      {
+       "type": "bullet",
+       "text": "Tocar o pescoço, ajustar colarinho ou gravata (gestos de automatismo)."
+      },
+      {
+       "type": "bullet",
+       "text": "Passar a língua nos lábios enquanto responde (boca seca de estresse — testável com perguntas de batimento)."
+      },
+      {
+       "type": "bullet",
+       "text": "Diminuir o ritmo da fala + engolir seco + mexer os ombros."
+      },
+      {
+       "type": "bullet",
+       "text": "Espreguiçar-se demais ou bocejar <i>no tema errado</i> (desconforto disfarçado)."
+      },
+      {
+       "type": "bullet",
+       "text": "Cruzar braços <b>e</b> pernas ao mesmo tempo + virar o tronco (barreira dupla)."
+      },
+      {
+       "type": "bullet",
+       "text": "Comportamentos de “estática”: mexer na carteira, limpar a unha, arrumar o cabelo repetidamente num assunto específico."
+      }
+     ]
+    },
+    {
+     "slug": "licao-28",
+     "title": "Acessórios que falam",
+     "summary": "",
+     "durationMin": 7,
+     "kind": "lesson",
+     "order": 5,
+     "blocks": [
+      {
+       "type": "bullet",
+       "text": "<b>Relógio:</b> no pulso dominante ou no não-dominante? Pulseira até o meio do pulso? É extravagância, segurança ou coleção?"
+      },
+      {
+       "type": "bullet",
+       "text": "<b>Aliança:</b> folgada no dedo (perda/uso de peso — ou excesso de conforto), arranhada ou nova lustrada (recente)."
+      },
+      {
+       "type": "bullet",
+       "text": "<b>Celular:</b> tela para baixo na mesa = quer esconder o que chega; tela para cima = disponibilidade; quem olha a hora no celular quando você fala = priorização.”"
+      },
+      {
+       "type": "bullet",
+       "text": "<b>Chaves:</b> deixar chaves sobre a mesa = sensação de segurança/posse do espaço; mexer no chaveiro = ansiedade."
+      },
+      {
+       "type": "bullet",
+       "text": "<b>Óculos:</b> limpar a lente, morder a haste ou tirar com jeito antes de responder a uma pergunta difícil = momento de compor a resposta (pausa artificial)."
+      }
+     ]
+    },
+    {
+     "slug": "licao-29",
+     "title": "Leitura em movimento (the walk test)",
+     "summary": "Observe alguém andando 10 passos antes de falar: quem anda rápido e endurecido (ombros rígidos, olhar fixo) está focado ou tenso; quem desvia o caminho ao ver outra pesso",
+     "durationMin": 3,
+     "kind": "lesson",
+     "order": 6,
+     "blocks": [
+      {
+       "type": "p",
+       "text": "Observe alguém andando 10 passos antes de falar: quem anda rápido e endurecido (ombros rígidos, olhar fixo) está focado ou tenso; quem desvia o caminho ao ver outra pessoa está evitando; a marcha muda com o estado de humor — o padrão de base é o seu termômetro."
+      },
+      {
+       "type": "tip",
+       "text": "<b>Correção didática:</b> não existe “mentira no corpo”. Existe <b>desconforto</b>. Quem mente sobre o próprio nome pode não mostrar nada; quem conta a verdade sobre um trauma pode mostrar tudo. A leitura corporal indica <u>estado</u>, e cabe a você ligar esse estado ao contexto."
+      },
+      {
+       "type": "exercise",
+       "text": "MTD10 — Reconhecimento de 3 gestos. Nas próximas 48h, para cada conversa acima de 2 minutos, registre 3 gestos observados e o momento exato (frase/tema). Depois reflita: o gesto acompanhou conforto ou desconforto? O que ele <i>precedeu</i> na fala?"
+      }
+     ]
+    }
+   ],
+   "quiz": null
+  },
+  {
+   "slug": "capitulo-06",
+   "title": "6. O detector de mentiras humano",
+   "summary": "Antes de qualquer pergunta importante, pergunte coisas cuja veracidade você conhece a certeza. Observe como a pessoa se comporta ao falar a verdade: tom, gestos",
+   "lessons": [
+    {
+     "slug": "licao-30",
+     "title": "Baseline: a régua da verdade",
+     "summary": "Antes de qualquer pergunta importante, pergunte coisas cuja veracidade você conhece a certeza. Observe como a pessoa se comporta ao falar a verdade: tom, gestos, velocida",
+     "durationMin": 3,
+     "kind": "lesson",
+     "order": 1,
+     "blocks": [
+      {
+       "type": "p",
+       "text": "Antes de qualquer pergunta importante, pergunte coisas cuja veracidade você conhece <b>a certeza</b>. Observe como a pessoa se comporta ao falar a verdade: tom, gestos, velocidade, contato visual, piscadas. Essa é a <b>baseline</b>. Tudo o que vier depois será comparado com ela. Sem baseline, qualquer julgamento é chute."
+      }
+     ]
+    },
+    {
+     "slug": "licao-31",
+     "title": "Pistas típicas de estresse de engano",
+     "summary": "",
+     "durationMin": 9,
+     "kind": "lesson",
+     "order": 2,
+     "blocks": [
+      {
+       "type": "bullet",
+       "text": "Mudança súbita na velocidade ou no tom da fala (engasgos, suspiros, pausas longas nos lugares errados)."
+      },
+      {
+       "type": "bullet",
+       "text": "Redução do contato visual <b>ou</b> excesso dele (pessoas preparadas forçam contato para parecer honestas)."
+      },
+      {
+       "type": "bullet",
+       "text": "Diminuição dos gestos demonstrativos (“animador” vira estátua) ou explosão deles (defensiva)."
+      },
+      {
+       "type": "bullet",
+       "text": "Formalidade textual: verbo impessoal, evitar “eu”, falar em terceira pessoa (“uma pessoa precisa...”), frases no passivo."
+      },
+      {
+       "type": "bullet",
+       "text": "Repetição da pergunta antes de responder (“O que você quer dizer com isso?”) — compra de tempo."
+      },
+      {
+       "type": "bullet",
+       "text": "Detalhes demais ou de menos: cronologia perfeita demais = ensaiada; vagas absolutas = ocultação."
+      },
+      {
+       "type": "bullet",
+       "text": "Autorreferência caindo depois do “hoje”: quem mente tende a usar menos pronomes de primeira pessoa na parte fingida."
+      }
+     ]
+    },
+    {
+     "slug": "licao-32",
+     "title": "Perguntas de controle e o teste do desvio",
+     "summary": "Como saber se o estresse é pelo tema ou pela mentira? Use o teste do desvio:",
+     "durationMin": 4,
+     "kind": "lesson",
+     "order": 3,
+     "blocks": [
+      {
+       "type": "p",
+       "text": "Como saber se o estresse é pelo tema ou pela mentira? Use o teste do desvio:"
+      },
+      {
+       "type": "bullet",
+       "text": "Passe para um tópico neutro (clima, trânsito, série). Se o desconforto sumir totalmente, o estresse aparecia <b>só</b> no tema vigiado."
+      },
+      {
+       "type": "bullet",
+       "text": "Volte ao tema. Se o desconforto retornar <b>no mesmo segundo</b> todos os dias, é um nervo exposto — o tema é blindado."
+      },
+      {
+       "type": "bullet",
+       "text": "Pergunte algo factível que você já sabe (controle positivo). A resposta correta com desconforto indica ansiedade geral — não necessariamente mentira."
+      }
+     ]
+    },
+    {
+     "slug": "licao-33",
+     "title": "O método das 3 perguntas",
+     "summary": "",
+     "durationMin": 4,
+     "kind": "lesson",
+     "order": 4,
+     "blocks": [
+      {
+       "type": "bullet",
+       "text": "<b>P1 — A pergunta da verdade (aquecimento):</b> algo simples e verdadeiro. Mapeia a baseline."
+      },
+      {
+       "type": "bullet",
+       "text": "<b>P2 — A pergunta-teste:</b> nela, insira um detalhe falso de propósito (“...e você saiu <i>daquela loja</i>, certo?”). Se a pessoa concordar sem correção, ou não está ouvindo (distração) ou está performando, não vivendo a memória."
+      },
+      {
+       "type": "bullet",
+       "text": "<b>P3 — A pergunta real:</b> a informação que você quer. Compare a reação com P1 e com P2. O desvio em P3 diz mais que qualquer dicionário de gestos."
+      }
+     ]
+    },
+    {
+     "slug": "licao-34",
+     "title": "O fio da contramão: testar a coerência",
+     "summary": "Mentirosos bons ensinam o roteiro; mentirosos ruins batem nas inconsistências. Jane ouve a história duas vezes: uma para o conteúdo, outra para o tempo e os espaços vazio",
+     "durationMin": 3,
+     "kind": "lesson",
+     "order": 5,
+     "blocks": [
+      {
+       "type": "p",
+       "text": "Mentirosos bons ensinam o roteiro; mentirosos ruins batem nas inconsistências. Jane ouve a história duas vezes: uma para o conteúdo, outra para o <b>tempo e os espaços vazios</b>. Faça perguntas fora de ordem cronológica (“e o que você fez no meio tempo?”) e observe se os detalhes <b>continuam iguais</b> ou engasgam."
+      }
+     ]
+    },
+    {
+     "slug": "licao-35",
+     "title": "Como o silêncio vira confissão",
+     "summary": "Após uma resposta vaga, Jane muitas vezes não fala. Ele olha, espera. O vácuo incomode a pessoa, que preenche com um detalhe extra — e é no detalhe extra que mora a contr",
+     "durationMin": 3,
+     "kind": "lesson",
+     "order": 6,
+     "blocks": [
+      {
+       "type": "p",
+       "text": "Após uma resposta vaga, Jane muitas vezes não fala. Ele <b>olha</b>, espera. O vácuo incomode a pessoa, que preenche com um detalhe extra — e é no detalhe extra que mora a contradição. Esta é a alavanca mais barata e elegante do interrogation."
+      },
+      {
+       "type": "quote",
+       "text": "“O silêncio é o seu melhor instrumento de interrogatório.”"
+      }
+     ]
+    },
+    {
+     "slug": "licao-36",
+     "title": "O que fazer quando você pega a mentira",
+     "summary": "",
+     "durationMin": 6,
+     "kind": "lesson",
+     "order": 7,
+     "blocks": [
+      {
+       "type": "bullet",
+       "text": "Não denuncie de cara — guarde isso como seu <b>trunfo</b>: você ganha mais vantagem sabendo do que demonstrando que sabe."
+      },
+      {
+       "type": "bullet",
+       "text": "Guarde a contradição como <b>munição calibrada</b> para quando precisar (no momento-chave, solte o detalhe específico que desmonta a história)."
+      },
+      {
+       "type": "bullet",
+       "text": "Ofereça uma saída honrosa: “Talvez você tenha se confundido, pode ter sido outro dia” — quem mente e é honesto leva a porta; quem mente e é mal-intencionado tentará reforçar."
+      },
+      {
+       "type": "exercise",
+       "text": "MTD11 — Teste do desvio no jantar. Com um amigo que topa brincar, combine: ele vai mentir sobre uma “atividade do dia” real e sobre outra irrelevante. Sua tarefa: identificar qual é qual usando apenas baseline + teste do desvio + silêncio. Anote os 3 sinais que mais pesaram."
+      },
+      {
+       "type": "exercise",
+       "text": "MTD12 — Escuta das 2 passadas. Pegue um podcast de entrevista (2 min). Ouça 1ª vez pelo conteúdo; 2ª vez só pelos “tempos mortos” (pausas, engasgos, pronomes impessoais). Liste 3 momentos em que o entrevistado pareceu menos seguro e por quê."
+      }
+     ]
+    }
+   ],
+   "quiz": null
+  },
+  {
+   "slug": "capitulo-07",
+   "title": "7. Rapport e escuta ativa",
+   "summary": "Camada 1 — Palavras: conteúdo, tese, contradições, palavras repetidas (“questões de dinheiro”, “tranqüilidade”).",
+   "lessons": [
+    {
+     "slug": "licao-37",
+     "title": "Escuta ativa em 3 camadas",
+     "summary": "",
+     "durationMin": 4,
+     "kind": "lesson",
+     "order": 1,
+     "blocks": [
+      {
+       "type": "bullet",
+       "text": "<b>Camada 1 — Palavras:</b> conteúdo, tese, contradições, palavras repetidas (“questões de dinheiro”, “tranqüilidade”)."
+      },
+      {
+       "type": "bullet",
+       "text": "<b>Camada 2 — Emoção:</b> tensão no tema, entusiasmo, cansaço, medo. Nomeie a emoção com cuidado (em vez de julgar) para validar: “Isso soa cansativo.”"
+      },
+      {
+       "type": "bullet",
+       "text": "<b>Camada 3 — Contexto:</b> quem é a pessoa, o que ela quer de ti, qual o cenário (autoridade? amigo? desconhecido?)."
+      }
+     ]
+    },
+    {
+     "slug": "licao-38",
+     "title": "O espelho: espelhamento supervisionado",
+     "summary": "A pessoa gosta de quem se parece com ela (viés da afinidade). O espelhamento consiste em adotar, discretamente, o ritmo, o tom e a postura do outro — nunca de forma cômic",
+     "durationMin": 6,
+     "kind": "lesson",
+     "order": 2,
+     "blocks": [
+      {
+       "type": "p",
+       "text": "A pessoa gosta de quem <b>se parece com ela</b> (viés da afinidade). O espelhamento consiste em adotar, discretamente, o ritmo, o tom e a postura do outro — nunca de forma cômica nem imediata."
+      },
+      {
+       "type": "bullet",
+       "text": "Espelhe apenas <b>2 ou 3 traços</b> (postura, tom, velocidade) e com 2-4 segundos de atraso."
+      },
+      {
+       "type": "bullet",
+       "text": "Espelhe a <b>respiração</b> (profunda se ele é profundo, costal se costal) — é invisível e poderosíssimo."
+      },
+      {
+       "type": "bullet",
+       "text": "Teste de rapport: se você precisa espelhar a mão para pegar o copo e o outro adota <b>o seu gesto</b> minutos depois, o vínculo está ativo."
+      },
+      {
+       "type": "bullet",
+       "text": "Se você mudar de posição e o outro <b>seguir sua liderança</b>, o rapport está consolidado (liderança de rapport)."
+      }
+     ]
+    },
+    {
+     "slug": "licao-39",
+     "title": "Rapport verbal: o poder de repetir",
+     "summary": "Quando Jane repete as palavras exatas da pessoa (“parece que sacrificar foi um tema aí”), ele está fazendo reflexo linguístico: validando o mapa de mundo da pessoa. Repit",
+     "durationMin": 3,
+     "kind": "lesson",
+     "order": 3,
+     "blocks": [
+      {
+       "type": "p",
+       "text": "Quando Jane repete as palavras exatas da pessoa (“parece que <i>sacrificar</i> foi um tema aí”), ele está fazendo reflexo linguístico: validando o mapa de mundo da pessoa. Repita a <b>âncora emocional</b> deles e eles se sentem compreendidos. Faça a soma: 70% deles reagem com mais abertura."
+      }
+     ]
+    },
+    {
+     "slug": "licao-40",
+     "title": "Vocabulário de validação",
+     "summary": "",
+     "durationMin": 5,
+     "kind": "lesson",
+     "order": 4,
+     "blocks": [
+      {
+       "type": "bullet",
+       "text": "Use “enão sei” como ponte honesta: “Não sei se isso é por isso, mas parece que...” (dá liberdade e mantém o público aberto)."
+      },
+      {
+       "type": "bullet",
+       "text": "Evite “mas”; troque por “e”: “Entendo seu ponto E vou te dizer...”"
+      },
+      {
+       "type": "bullet",
+       "text": "Faça perguntas de <b>elaboração</b> (“como foi isso?”) em vez de perguntas de <b>verificação</b> (“foi ruim?”) — a primeira abre, a segunda fecha."
+      },
+      {
+       "type": "bullet",
+       "text": "Repita baixo e com pausa a última palavra significativa da fala do outro: “...sacrificar.” — ele continua a explicação sozinho."
+      }
+     ]
+    },
+    {
+     "slug": "licao-41",
+     "title": "Âncoras emocionais",
+     "summary": "Uma âncora é um estímulo (gesto, palavra, local) associado a um estado emocional. Salesman e massagistas usam isso há décadas. No nível de rapport:",
+     "durationMin": 5,
+     "kind": "lesson",
+     "order": 5,
+     "blocks": [
+      {
+       "type": "p",
+       "text": "Uma âncora é um estímulo (gesto, palavra, local) associado a um estado emocional. Salesman e massagistas usam isso há décadas. No nível de rapport:"
+      },
+      {
+       "type": "bullet",
+       "text": "Associe um gesto agradável (ex.: tocar a própria caneca no início de um momento leve/engraçado) e use-o quando quiser acionar leveza depois."
+      },
+      {
+       "type": "bullet",
+       "text": "Associe uma palavra (“tranquilo”, “família”) a momentos de concordância; repita-a no momento de pedir acordo."
+      },
+      {
+       "type": "bullet",
+       "text": "No fim da conversa, deixe plantada uma âncora de confiança: uma promessa cumprida pequena (eu te aviso amanhã às 10h) e cumpra com exatidão."
+      }
+     ]
+    },
+    {
+     "slug": "licao-42",
+     "title": "O erro fatal do rapport",
+     "summary": "Rapport não é bajulação. Se a pessoa perceber que você está “tentando”, o espelho quebra e a confiança vira desconfiança. Regra de ouro: subspir. Vá devagar, espelhe pouc",
+     "durationMin": 3,
+     "kind": "lesson",
+     "order": 6,
+     "blocks": [
+      {
+       "type": "p",
+       "text": "Rapport não é bajulação. Se a pessoa perceber que você está “tentando”, o espelho quebra e a confiança vira desconfiança. Regra de ouro: <b>subspir</b>. Vá devagar, espelhe pouco e mude o espelho quando o fluxo estiver bom. Confiança se constrói na colher de chá e se destrói na bochecha cheia."
+      },
+      {
+       "type": "exercise",
+       "text": "MTD13 — A sessão de espelho. Numa conversa casual de 5 minutos com alguém conhecido, espelhe apenas a postura e a velocidade de fala. No minuto 4, mude de posição. Se ele mudar junto nos 30 segundos seguintes, o rapport estava ativo. Anote: sim ou não + o que quebrou."
+      }
+     ]
+    }
+   ],
+   "quiz": null
+  },
+  {
+   "slug": "capitulo-08",
+   "title": "8. A memória de Jane",
+   "summary": "A técnica (usada há 2.500 anos, de Simônides a Sherlock) associa o que você quer lembrar a lugares de um edifício mental que você conhece (sua casa, seu trajeto",
+   "lessons": [
+    {
+     "slug": "licao-43",
+     "title": "O palácio da memória",
+     "summary": "A técnica (usada há 2.500 anos, de Simônides a Sherlock) associa o que você quer lembrar a lugares de um edifício mental que você conhece (sua casa, seu trajeto, seu quin",
+     "durationMin": 6,
+     "kind": "lesson",
+     "order": 1,
+     "blocks": [
+      {
+       "type": "p",
+       "text": "A técnica (usada há 2.500 anos, de Simônides a Sherlock) associa o que você quer lembrar a lugares de um <b>edifício mental que você conhece</b> (sua casa, seu trajeto, seu quintal). Passos:"
+      },
+      {
+       "type": "bullet",
+       "text": "Passo 1: escolha um percurso de 10 a 20 pontos fixos (porta da frente, corredor, mesa da sala, escada, banheiro, janela...)."
+      },
+      {
+       "type": "bullet",
+       "text": "Passo 2: para cada coisa que precisa lembrar, crie uma <b>imagem absurda e exagerada</b> no ponto do percurso (nós lembramos o estranho, não o comum)."
+      },
+      {
+       "type": "bullet",
+       "text": "Passo 3: ao “passear” pelo palácio, “veja” cada imagem. Recupere na ordem ou pulando pontos."
+      },
+      {
+       "type": "p",
+       "text": "Exemplo: lista “ovos, remédio, relatório, luz de casa” → (1) porta da frente com uma galinha pondo ovos na ombreira; (2) espelho de corredor com 20 comprimidos colados; (3) a mesa de jantar coberta de folhas A4 que voam; (4) a lâmpada da sala piscando em stop-motion. Feio > bonito > esquecido."
+      }
+     ]
+    },
+    {
+     "slug": "licao-44",
+     "title": "Memória de nomes e rostos",
+     "summary": "",
+     "durationMin": 5,
+     "kind": "lesson",
+     "order": 2,
+     "blocks": [
+      {
+       "type": "bullet",
+       "text": "Ao ouvir um nome, <b>ofereça a repetição</b>: “Rafael? Prazer, Rafael.” (Ritual de consolidação)."
+      },
+      {
+       "type": "bullet",
+       "text": "Ligue o nome a uma peculiaridade do rosto: “Rafael — sobrancelha ‘ra’” (sobrancelha em bico de raio). Vínculo absurdo, lembração garantida."
+      },
+      {
+       "type": "bullet",
+       "text": "Deixe uma “etiqueta” na imagem do dia: relle o nome até associá-lo a uma imagem da pessoa (ex.: Rafael jogando raquete)."
+      },
+      {
+       "type": "bullet",
+       "text": "Aos 60s, 10min, 1h e 1 dia da conversa, puxe o nome uma vez de memória (desvanecimento mirim — reforço espaçado)."
+      }
+     ]
+    },
+    {
+     "slug": "licao-45",
+     "title": "Memória de conversa (o caderno mental)",
+     "summary": "Jane “retorna” em conversas anteriores com detalhes específicos — o que gera “outra conexão” imediata e admiração. Técnica do caderno mental:",
+     "durationMin": 5,
+     "kind": "lesson",
+     "order": 3,
+     "blocks": [
+      {
+       "type": "p",
+       "text": "Jane “retorna” em conversas anteriores com detalhes específicos — o que gera “outra conexão” imediata e admiração. Técnica do caderno mental:"
+      },
+      {
+       "type": "bullet",
+       "text": "Depois de qualquer conversa de mais de 3 minutos, grave mentalmente: nome, profissão, 1 detalhe pessoal (animais, filho, time), 1 promessa feita, e o tema que &#x201c;acendeu os olhos” dele."
+      },
+      {
+       "type": "bullet",
+       "text": "Sistema de anotações em 5 palavras depois (no celular): “Maria — vet. — chocolate — cachorro — Bodó.” Revise antes da próxima conversa."
+      },
+      {
+       "type": "bullet",
+       "text": "Na volta, abra com o detalhe pessoal: “E como está o Bodó?” É o melhor rapport de todos: prova que você <b>prestou atenção e se importa</b>."
+      }
+     ]
+    },
+    {
+     "slug": "licao-46",
+     "title": "Treino diário de memória",
+     "summary": "",
+     "durationMin": 3,
+     "kind": "lesson",
+     "order": 4,
+     "blocks": [
+      {
+       "type": "exercise",
+       "text": "MTD14 — Palácio de 10 pontos. Construa seu palácio (10 pontos fixos de um lugar que você ama). Guarde a lista de compras nela. Repita o passeio 3x ao dia por 3 dias. Depois teste sem olhar. Meta: 10/10 corretos."
+      },
+      {
+       "type": "exercise",
+       "text": "MTD15 — Nome-rosto em festas. Em qualquer reunião, comprometa-se a lembrar 5 nomes + 1 fato de 5 pessoas. Ao final, recite mentalmente os 5 fatos. No dia seguinte, recite de novo (reforço espaçado)."
+      },
+      {
+       "type": "exercise",
+       "text": "MTD16 — Cartas de baralho. Durante 2 semanas, treine memorizar um baralho embaralhado com o método da imagem por carta (naipes com elementos) e o palácio. Cronometre. Verás de 10min para 3min em 3 semanas."
+      }
+     ]
+    }
+   ],
+   "quiz": null
+  },
+  {
+   "slug": "capitulo-09",
+   "title": "9. Hipnose conversacional e sugestão",
+   "summary": "“Transe” aqui não é dormência; é foco absorvido — como quando você se perde num filme. Você cria isso diminuindo o ritmo, reduzindo distrações (pausas, olhar fi",
+   "lessons": [
+    {
+     "slug": "licao-47",
+     "title": "Estado de transe: foco único",
+     "summary": "“Transe” aqui não é dormência; é foco absorvido — como quando você se perde num filme. Você cria isso diminuindo o ritmo, reduzindo distrações (pausas, olhar firme, tom m",
+     "durationMin": 3,
+     "kind": "lesson",
+     "order": 1,
+     "blocks": [
+      {
+       "type": "p",
+       "text": "“Transe” aqui não é dormência; é <b>foco absorvido</b> — como quando você se perde num filme. Você cria isso diminuindo o ritmo, reduzindo distrações (pausas, olhar firme, tom mais baixo) e usando linguagem que <i>pendura</i> a atenção para dentro da conversa. A sugestão funciona melhor dentro desse estado."
+      }
+     ]
+    },
+    {
+     "slug": "licao-48",
+     "title": "Truques de linguagem para aceitação",
+     "summary": "Afirme algo antes de pedir, como se já fosse fato. Nunca pergunte “você quer comprar?”; pergunte “você prefere levar a preta ou a vermelha?”. A pergunta já assume posse. ",
+     "durationMin": 5,
+     "kind": "lesson",
+     "order": 2,
+     "blocks": [
+      {
+       "type": "h3",
+       "text": "Pressuposição"
+      },
+      {
+       "type": "p",
+       "text": "Afirme algo antes de pedir, como se já fosse fato. Nunca pergunte “você quer comprar?”; pergunte “você prefere levar a preta ou a vermelha?”. A pergunta já assume posse. No contexto de Jane: “quando você me contar o que aconteceu lá” — não “se”."
+      },
+      {
+       "type": "h3",
+       "text": "Duplo vínculo (cardápio fechado)"
+      },
+      {
+       "type": "p",
+       "text": "Dê duas opções que levam ao mesmo destino: “Você quer me contar agora ou prefere que eu adivinhe?” — nas duas, a informação vem. A pessoa escolhe a forma, você fica com o conteúdo."
+      },
+      {
+       "type": "h3",
+       "text": "Negações de segunda ordem"
+      },
+      {
+       "type": "p",
+       "text": "Use “não” para <i>instalar</i>: “Você não precisa <b>se sentir confortável</b> para me falar.” O cérebro processa a instrução “se sinta confortável” antes do “não” vira fumaça."
+      },
+      {
+       "type": "h3",
+       "text": "Embedded commands (comando embutido)"
+      },
+      {
+       "type": "p",
+       "text": "Comandos escondidos dentro de frases, separados por pausa e entonação: “...e você pode <b>respirar fundo</b> enquanto me conta...”. A pessoa compreende o texto, o cérebro dela recebe o comando."
+      },
+      {
+       "type": "h3",
+       "text": "Milton Modelo (linguagem artística)"
+      },
+      {
+       "type": "p",
+       "text": "O modelo do Erickson: frases vagas e processos comuns (“como você aprendeu a andar de bicicleta, sem pensar em cada pedalada...”) que abrem espaços para a pessoa preencher com o próprio conteúdo. É cold reading — só que na linguagem."
+      },
+      {
+       "type": "h3",
+       "text": "“Yes-set” (sim, sim, sim)"
+      },
+      {
+       "type": "p",
+       "text": "Encadeie 3 afirmações inegáveis antes do pedido: “Você é o responsável por essa área. Já resolveu coisas parecidas. Sabe o que mudaria aqui.” → “Então qual é o nome disso?” A sequência de “sim” abre a porta para o quarto “sim”."
+      },
+      {
+       "type": "h3",
+       "text": "Andaimes"
+      },
+      {
+       "type": "p",
+       "text": "Não peça a verdade direto. Peça aproximações: “Isso foi de manhã ou à tarde?” → “E depois?” → “Quem mais estava?” — cada resposta é um tijolo que leva ao ponto. Perguntas difíceis perdem o peso quando chegam em cima de andaimes."
+      }
+     ]
+    },
+    {
+     "slug": "licao-49",
+     "title": "O protocolo do “descartável informativo”",
+     "summary": "Como transformar uma pergunta proibida em pergunta natural: reformule sua curiosidade como dado para ajudar a pessoa em vez de interrogatório: “Pra eu entender o contexto",
+     "durationMin": 3,
+     "kind": "lesson",
+     "order": 3,
+     "blocks": [
+      {
+       "type": "p",
+       "text": "Como transformar uma pergunta proibida em pergunta natural: reformule sua curiosidade como <b>dado para ajudar a pessoa</b> em vez de interrogatório: “Pra eu entender o contexto e não indicar a direção errada, me conta: o que você já sabe sobre esse caso?”. Jane faz isso com genialidade — transforma a extração de informação em presente."
+      }
+     ]
+    },
+    {
+     "slug": "licao-50",
+     "title": "Os limites de verdade (ética técnica)",
+     "summary": "",
+     "durationMin": 5,
+     "kind": "lesson",
+     "order": 4,
+     "blocks": [
+      {
+       "type": "bullet",
+       "text": "Transe coloquial não faz ninguém fazer contra a própria vontade <b>real</b> (as “possibilidades psi” não existem)."
+      },
+      {
+       "type": "bullet",
+       "text": "Rapport + sugestão + repetição podem convencer — por isso o poder é real e o uso equivocado é danoso."
+      },
+      {
+       "type": "bullet",
+       "text": "Nunca use para evadir consentimento, para fins ilegais ou para manipular pessoas que confiam em você."
+      },
+      {
+       "type": "exercise",
+       "text": "MTD17 — Um dia de pressuposições. Use em 5 conversas a estrutura “quando você me disser...” / “você pode...” no lugar de “se você disser”. Registre a reação. Cuidado com a força dos mesmos: seja sincero com você mesmo sobre o motivo."
+      }
+     ]
+    }
+   ],
+   "quiz": null
+  },
+  {
+   "slug": "capitulo-10",
+   "title": "10. Persuasão e influência",
+   "summary": "1. Reciprocidade",
+   "lessons": [
+    {
+     "slug": "licao-51",
+     "title": "Os 6 princípios de Cialdini",
+     "summary": "Dê antes de pedir: uma informação útil, um elogio específico, uma pausa para ouvir. O cérebro humano sente a dívida. No estilo Jane: “Eu sei uma coisa que vai te ajudar” ",
+     "durationMin": 5,
+     "kind": "lesson",
+     "order": 1,
+     "blocks": [
+      {
+       "type": "h3",
+       "text": "1. Reciprocidade"
+      },
+      {
+       "type": "p",
+       "text": "Dê antes de pedir: uma informação útil, um elogio específico, uma pausa para ouvir. O cérebro humano sente a dívida. No estilo Jane: “Eu sei uma coisa que vai te ajudar” — e você então mostra que sabe algo <b>dele</b> (leitura fria — paga a âncora e gera reciprocidade ao mesmo tempo)."
+      },
+      {
+       "type": "h3",
+       "text": "2. Compromisso e consistência"
+      },
+      {
+       "type": "p",
+       "text": "Quem assume um compromisso pequeno tende a honrá-lo e a escalar para versões maiores. Faça a pessoa dizer “sim” pequenos antes: “Você topa raciocinar comigo por 2 minutos?” (sim) → “Então me conta o que aconteceu.” O primeiro “sim” abre o resto."
+      },
+      {
+       "type": "h3",
+       "text": "3. Prova social"
+      },
+      {
+       "type": "p",
+       "text": "As decisões seguem a maioria. “As pessoas na sua posição geralmente fazem assim...”, “todos aqui já viram esse tipo de caso”. Use com honestidade — a prova social forte é a evidência real de que a situação é comum."
+      },
+      {
+       "type": "h3",
+       "text": "4. Autoridade"
+      },
+      {
+       "type": "p",
+       "text": "Acreditamos em quem parece saber. Jane entra como consultor do CBI com ar de quem já viu: tom, vocabulário técnico na medida e a certeza calma de quem fala “fato”, não opinião. Autoridade se constrói com 5% de postura e 95% de consistência entre o que diz e o que faz."
+      },
+      {
+       "type": "h3",
+       "text": "5. Afinidade (gostar)"
+      },
+      {
+       "type": "p",
+       "text": "Afinidade aumenta com semelhança e elogios genuínos. Espelhamento (cap. 7) + validação + lembrar o nome = trio da afinidade. As pessoas fazem mais por alguém de quem gostam do que por uma causa — mesmo em casos de polícia, Jane se apoia nisso."
+      },
+      {
+       "type": "h3",
+       "text": "6. Escassez"
+      },
+      {
+       "type": "p",
+       "text": "O que parece raro vale mais. “Essa chance de esclarecer tudo agora é a melhor janela que você vai ter.” Escassez de tempo, de oportunidade ou de informação — use com parcimônia e verdade; escassez falsa repele pessoas inteligentes."
+      }
+     ]
+    },
+    {
+     "slug": "licao-52",
+     "title": "Enquadramento (framing)",
+     "summary": "Não é o que você diz, é como enquadra. “Eu preciso que você me ajude a fechar essa etapa” (cooperação) versus “Você precisa colaborar com a investigação” (julgamento) — m",
+     "durationMin": 3,
+     "kind": "lesson",
+     "order": 2,
+     "blocks": [
+      {
+       "type": "p",
+       "text": "Não é o que você diz, é <b>como enquadra</b>. “Eu preciso que você me ajude a fechar essa etapa” (cooperação) versus “Você precisa colaborar com a investigação” (julgamento) — mesma ordem, efeitos opostos. Jane enquadra quase tudo como <b>ajuda mútua</b> ou <b>descoberta conjunta</b>."
+      }
+     ]
+    },
+    {
+     "slug": "licao-53",
+     "title": "O passo do conselheiro (consultante)",
+     "summary": "A posição mais forte não é a de quem pergunta, é a de quem ajuda. “Me diz o que aconteceu que eu te indico o melhor caminho.” Querem te ver resolver o problema deles — e ",
+     "durationMin": 3,
+     "kind": "lesson",
+     "order": 3,
+     "blocks": [
+      {
+       "type": "p",
+       "text": "A posição mais forte não é a de quem pergunta, é a de quem <b>ajuda</b>. “Me diz o que aconteceu que eu te indico o melhor caminho.” Querem te ver resolver o problema deles — e o preço dessa consultoria é a informação que você precisa. O mentalista vira o cara a quem pessoas confidenciam — porque parece o único que “entende”."
+      },
+      {
+       "type": "tip",
+       "text": "<b>A persuasão mais forte é a não-persuasão:</b> ser tão bom em ouvir e em colocar as opções com clareza que a pessoa decide “sozinha” na direção que você indicou. Quando ela acha que a ideia foi dela, o compromisso (princípio 2) a segura."
+      },
+      {
+       "type": "exercise",
+       "text": "MTD18 — Um dia de reciprocidade. Entregue 3 “doses” de valor em conversas (dica útil, elogio específico, escuta completa de 3 minutos) e perceba quantas pessoas passam a te oferecer algo em troca. Anote 1 caso."
+      }
+     ]
+    }
+   ],
+   "quiz": null
+  },
+  {
+   "slug": "capitulo-11",
+   "title": "11. A arte da entrevista e do interrogatório",
+   "summary": "Fase 1 — Clima: elogio de entrada + chá/café; ressignifica a relação de “interrogado” para “convidado”.",
+   "lessons": [
+    {
+     "slug": "licao-54",
+     "title": "O protocolo Jane em 7 fases",
+     "summary": "",
+     "durationMin": 9,
+     "kind": "lesson",
+     "order": 1,
+     "blocks": [
+      {
+       "type": "bullet",
+       "text": "<b>Fase 1 — Clima:</b> elogio de entrada + chá/café; ressignifica a relação de “interrogado” para “convidado”."
+      },
+      {
+       "type": "bullet",
+       "text": "<b>Fase 2 — Baseline:</b> 3 perguntas neutras verdadeiras e observe o padrão normal."
+      },
+      {
+       "type": "bullet",
+       "text": "<b>Fase 3 — Isca:</b> boat statement com 2 caminhos no tema central. Observe a reação (não a resposta)."
+      },
+      {
+       "type": "bullet",
+       "text": "<b>Fase 4 — Andaime:</b> 3 perguntas pequenas e fáceis que montam o cenário real."
+      },
+      {
+       "type": "bullet",
+       "text": "<b>Fase 5 — Pressão indireta:</b> sugestão de tempo/escassez leve (“pra gente resolver antes do fim do dia...”) + silêncio de 5-8 segundos após resposta vaga."
+      },
+      {
+       "type": "bullet",
+       "text": "<b>Fase 6 — O contra-teste:</b> o detalhe falso (P2 do cap. 6) inserido disfarçado."
+      },
+      {
+       "type": "bullet",
+       "text": "<b>Fase 7 — Fecho:</b> resumo do que foi dito + compromisso (“então fica assim...”) + saída honrosa se precisar de tempo."
+      }
+     ]
+    },
+    {
+     "slug": "licao-55",
+     "title": "Perguntas abertas e fechadas",
+     "summary": "Aberta (“como?”, “o quê?”) faz a pessoa produzir; fechada (“foi?”) faz a pessoa confirmar/negar. Uma entrevista boa alterna: 2 abertas para mapear, 1 fechada para pinar. ",
+     "durationMin": 3,
+     "kind": "lesson",
+     "order": 2,
+     "blocks": [
+      {
+       "type": "p",
+       "text": "Aberta (“como?”, “o quê?”) faz a pessoa produzir; fechada (“foi?”) faz a pessoa confirmar/negar. Uma entrevista boa alterna: 2 abertas para mapear, 1 fechada para pinar. Inverter a ordem (primeiro o detalhe, depois o resumo) desmonta roteiros ensaiados."
+      }
+     ]
+    },
+    {
+     "slug": "licao-56",
+     "title": "O mini-gancho da mudança de assunto",
+     "summary": "A variante-tesoura: no meio do assunto frio, solte a pergunta quente com tom neutro: “Ah, e ontem à noite, onde você estava?” (mudança brusca). Quem mente precisa de 1-2 ",
+     "durationMin": 3,
+     "kind": "lesson",
+     "order": 3,
+     "blocks": [
+      {
+       "type": "p",
+       "text": "A variante-tesoura: no meio do assunto frio, solte a pergunta quente com tom neutro: “Ah, e ontem à noite, onde você estava?” (mudança brusca). Quem mente precisa de 1-2 segundos para trocar de viagem — o vacilo aparece exatamente aí, antes da resposta verbal."
+      }
+     ]
+    },
+    {
+     "slug": "licao-57",
+     "title": "O silêncio que confessa",
+     "summary": "Após uma resposta vaga, mantenha-se calado, olhe com interesse neutro e espere. A pessoa não aguenta o vácuo e completa — e a completação é onde mora o erro. Jane domina ",
+     "durationMin": 5,
+     "kind": "lesson",
+     "order": 4,
+     "blocks": [
+      {
+       "type": "p",
+       "text": "Após uma resposta vaga, mantenha-se calado, olhe com interesse neutro e espere. A pessoa não aguenta o vácuo e completa — e a completação é onde mora o erro. Jane domina o silêncio de 10, 20 segundos sem mover a face. Treine isso: cronômetro secreto vagabundando na cabeça."
+      },
+      {
+       "type": "bullet",
+       "text": "Não quebre o silêncio antes da pessoa; quem quebra perdou a chance."
+      },
+      {
+       "type": "bullet",
+       "text": "Se a pessoa não completar, refaça a pergunta <b>exata</b> serenamente (“e onde você estava?”) — repetição exata incomoda mais que nova formulação."
+      },
+      {
+       "type": "bullet",
+       "text": "Regra de ouro: <b>fale menos que o necessário</b>. Toda frase que nasce no seu silêncio é informação que escorreu da mão."
+      }
+     ]
+    },
+    {
+     "slug": "licao-58",
+     "title": "O truque do “alto ou confirmação”",
+     "summary": "No meio do interrogatório, afirme algo errado de propósito, em forma de confirmação: “Então você chegou dez e meia, né?”. Se a pessoa corrige o horário, ela está processa",
+     "durationMin": 3,
+     "kind": "lesson",
+     "order": 5,
+     "blocks": [
+      {
+       "type": "p",
+       "text": "No meio do interrogatório, afirme algo errado de propósito, em forma de confirmação: “Então você chegou <i>dez e meia</i>, né?”. Se a pessoa corrige o horário, ela está processando (realidade); se concorda sem corrigir, está performando o roteiro (atenção!). Bom para separar memória viva de memória ensaiada."
+      }
+     ]
+    },
+    {
+     "slug": "licao-59",
+     "title": "Quando usar: o peso de cada tela",
+     "summary": "",
+     "durationMin": 5,
+     "kind": "lesson",
+     "order": 6,
+     "blocks": [
+      {
+       "type": "bullet",
+       "text": "<b>Interrogatório formal</b>: muita estrutura, pouco contexto pessoal, silêncios grandes. Para confirmar fatos."
+      },
+      {
+       "type": "bullet",
+       "text": "<b>Entrevista de testemunha</b>: rapport pesado, espelho pleno, perguntas em qualquer ordem para a memória episódica."
+      },
+      {
+       "type": "bullet",
+       "text": "<b>Conversa de bar</b>: nada de protocolo na superfície — é o protocolo disfarçado de papo. O melhor de Jane."
+      },
+      {
+       "type": "exercise",
+       "text": "MTD19 — Roteiro de entrevista. Grave uma conversa (com consentimento) com alguém que topa o teste: você aplica as 7 fases e depois pergunta o que ela sentiu em cada mudança de tom. O feedback é sua afinação."
+      }
+     ]
+    }
+   ],
+   "quiz": null
+  },
+  {
+   "slug": "capitulo-12",
+   "title": "12. Autocontrole — a mente do jogo",
+   "summary": "Calma não é passividade: é estado de jogo. Com o corpo lento, a atenção fica larga — você vê o cenário inteiro. Com o corpo acelerado, a visão estreita. Por iss",
+   "lessons": [
+    {
+     "slug": "licao-60",
+     "title": "A calma como ferramenta tática",
+     "summary": "Calma não é passividade: é estado de jogo. Com o corpo lento, a atenção fica larga — você vê o cenário inteiro. Com o corpo acelerado, a visão estreita. Por isso quem per",
+     "durationMin": 3,
+     "kind": "lesson",
+     "order": 1,
+     "blocks": [
+      {
+       "type": "p",
+       "text": "Calma não é passividade: é <b>estado de jogo</b>. Com o corpo lento, a atenção fica larga — você vê o cenário inteiro. Com o corpo acelerado, a visão estreita. Por isso quem perde a cabeça perde o jogo. O pulso baixo é o que permite o rake completo."
+      }
+     ]
+    },
+    {
+     "slug": "licao-61",
+     "title": "Fisiologia primeiro: respiração e postura",
+     "summary": "",
+     "durationMin": 4,
+     "kind": "lesson",
+     "order": 2,
+     "blocks": [
+      {
+       "type": "bullet",
+       "text": "Respiração 4-2-6 (inspirar 4s, segurar 2s, soltar 6s) por 2 minutos: reduz cortisol e coloca a fala em modo lento."
+      },
+      {
+       "type": "bullet",
+       "text": "Postura de “coroação” (ombros para trás, queixo neutro, mãos à vista) sinaliza segurança ao corpo — o corpo devolve segurança à voz."
+      },
+      {
+       "type": "bullet",
+       "text": "Pausa anti-rabia: antes de responder qualquer provocação, comande mentalmente “respiração” + 1s de espera. Ganhou 1 segundo de análise."
+      }
+     ]
+    },
+    {
+     "slug": "licao-62",
+     "title": "O destacamento tático",
+     "summary": "Jane “se coloca fora” da cena quando o tema dói: ele trata até o próprio drama como caso a ser observado. Essa técnica — distanciamento dirigido — permite analisar sem se",
+     "durationMin": 4,
+     "kind": "lesson",
+     "order": 3,
+     "blocks": [
+      {
+       "type": "p",
+       "text": "Jane “se coloca fora” da cena quando o tema dói: ele trata até o próprio drama como <b>caso a ser observado</b>. Essa técnica — distanciamento dirigido — permite analisar sem ser arrastado. Não é frieza: é testemunhar a si mesmo com a mesma lupa dos outros."
+      },
+      {
+       "type": "bullet",
+       "text": "Você não é a voz interna; você é quem <b>ouve</b> a voz interna. Anote mentalmente: “estou ficando irritado” — nomear o estado reduz o poder dele."
+      },
+      {
+       "type": "bullet",
+       "text": "Pergunte-se: “o que essa pessoa quer que eu sinta? Se eu sentir, quem ganha?” — o jogo do xadrez fica claro e a resposta fica profissional."
+      }
+     ]
+    },
+    {
+     "slug": "licao-63",
+     "title": "O xadrez mental: “jogue a mão dele”",
+     "summary": "Jane não morde a isca da pressa. Se alguém quer humilhá-lo numa sala, ele sorri, concorda e muda de tema — porque a provocação é a jogada do outro, e responder nela é ser",
+     "durationMin": 3,
+     "kind": "lesson",
+     "order": 4,
+     "blocks": [
+      {
+       "type": "p",
+       "text": "Jane não morde a isca da pressa. Se alguém quer humilhá-lo numa sala, ele sorri, concorda e muda de tema — porque a provocação é a <b>jogada do outro</b>, e responder nela é servir o jogo alheio. Regra prática: “se eu estou reagindo, estou jogando o xadrez dele. Paro, ajusto e volto ao meu tabuleiro.”"
+      }
+     ]
+    },
+    {
+     "slug": "licao-64",
+     "title": "Técnica anti-tilt (anti-bajulação própria)",
+     "summary": "",
+     "durationMin": 5,
+     "kind": "lesson",
+     "order": 5,
+     "blocks": [
+      {
+       "type": "bullet",
+       "text": "Comemore acertos em silêncio por 3 segundos e volte (excesso de orgulho nubla a próxima leitura)."
+      },
+      {
+       "type": "bullet",
+       "text": "Errou? Faça a leitura do erro como faria num caso: “qual pista eu pulei?” — vira aprendizado, não abalo."
+      },
+      {
+       "type": "bullet",
+       "text": "Você não precisa provar nada a ninguém: a prova é a próxima pergunta certa."
+      },
+      {
+       "type": "exercise",
+       "text": "MTD20 — Treino do 1 segundo. Em todas as provocações da semana (discussão de trânsito, comentário ácido), antes de responder: pausa de 1s + respiração de 1 ciclo. Observe quem perde na fila quando você desarma o gatilho. Registre 3 episódios."
+      }
+     ]
+    }
+   ],
+   "quiz": null
+  },
+  {
+   "slug": "capitulo-13",
+   "title": "13. Personas e a arte de parecer inofensivo",
+   "summary": "O inofensivo excêntrico: humor próprio, chá, histórias de bizarria. Efeito: as pessoas relaxam, riem e abaixam a guarda. Melhor para colher confidências.",
+   "lessons": [
+    {
+     "slug": "licao-65",
+     "title": "As 4 personas do mentalista",
+     "summary": "",
+     "durationMin": 6,
+     "kind": "lesson",
+     "order": 1,
+     "blocks": [
+      {
+       "type": "bullet",
+       "text": "<b>O inofensivo excêntrico:</b> humor próprio, chá, histórias de bizarria. Efeito: as pessoas relaxam, riem e abaixam a guarda. Melhor para colher confidências."
+      },
+      {
+       "type": "bullet",
+       "text": "<b>O conselheiro/consultor:</b> escuta profundamente, faz perguntas no tempo certo, devolve insights (leitura fria). Efeito: as pessoas o procuram para abrir a caixa."
+      },
+      {
+       "type": "bullet",
+       "text": "<b>O especialista:</b> vocabulário técnico na medida, termos de bastidor, postura de quem já viu de tudo. Efeito: autoridade sem arrogância."
+      },
+      {
+       "type": "bullet",
+       "text": "<b>O observador distraído:</b> olhos para o fundo da sala, respostas monossilábicas, parece não ligar. Efeito: subestimado — e por isso invisível enquanto tudo é dito na frente dele."
+      }
+     ]
+    },
+    {
+     "slug": "licao-66",
+     "title": "Como usar persona sem ser falso",
+     "summary": "Persona é selecionar e amplificar uma parte real de você, não inventar um avatar. A pessoa excêntrica existe em você; o conselheiro existe em você. Escolha a chave certa ",
+     "durationMin": 4,
+     "kind": "lesson",
+     "order": 2,
+     "blocks": [
+      {
+       "type": "p",
+       "text": "Persona é <b>selecionar e amplificar</b> uma parte real de você, não inventar um avatar. A pessoa excêntrica existe em você; o conselheiro existe em você. Escolha a chave certa para cada porta — é versatilidade social, não mentira. Os três sinais de persona-fantasma (evite):"
+      },
+      {
+       "type": "bullet",
+       "text": "Persona contraditória entre si (confunde: “quem é você mesmo?”)."
+      },
+      {
+       "type": "bullet",
+       "text": "Persona que depende de mentiras sustentáveis (uma hora o roteiro estoura)."
+      },
+      {
+       "type": "bullet",
+       "text": "Persona sem calibração social (parece palco, não pessoa)."
+      }
+     ]
+    },
+    {
+     "slug": "licao-67",
+     "title": "O guarda-roupa também é pista",
+     "summary": "O que você veste conta sobre você antes de você abrir a boca. Jane usa a postura que combina com o script de cada persona. Se você quer parecer consultor, os acessórios a",
+     "durationMin": 3,
+     "kind": "lesson",
+     "order": 3,
+     "blocks": [
+      {
+       "type": "p",
+       "text": "O que você veste <b>conta</b> sobre você antes de você abrir a boca. Jane usa a postura que combina com o script de cada persona. Se você quer parecer consultor, os acessórios ajudam; se quer colher confidências num bar, formal demais espanta. Alinhar figurino e persona é parte do ofício."
+      },
+      {
+       "type": "exercise",
+       "text": "MTD21 — Laboratório de personas. Em 3 contextos diferentes (mercado, trabalho, encontro casual), teste a persona mais útil: escolha <b>uma</b> característica de cada persona e mantenha por 10 minutos. Ao voltar para casa, anote: o que as pessoas contaram com você em cada persona? O que você provocou?"
+      }
+     ]
+    }
+   ],
+   "quiz": null
+  },
+  {
+   "slug": "capitulo-14",
+   "title": "14. Estratégias em campo — cenários práticos",
+   "summary": "1) Antes: scan ambiente (quem, onde, energia).",
+   "lessons": [
+    {
+     "slug": "licao-68",
+     "title": "Cenário 1 — Conhecer alguém e impressionar em 5 minutos",
+     "summary": "",
+     "durationMin": 8,
+     "kind": "lesson",
+     "order": 1,
+     "blocks": [
+      {
+       "type": "bullet",
+       "text": "1) Antes: scan ambiente (quem, onde, energia)."
+      },
+      {
+       "type": "bullet",
+       "text": "2) Abordagem: pergunta-bisca vaga com 2 caminhos sobre algo <i>do contexto</i> (“você veio pelo buffet ou pela apresentação?”)."
+      },
+      {
+       "type": "bullet",
+       "text": "3) Colete as pistas (mãos, relógio, sotaque, temas de orgulho)."
+      },
+      {
+       "type": "bullet",
+       "text": "4) Boat statement calibrado: “você trabalha com pessoas ou com números?” (2 caminhos; a resposta + a reação entregam o resto)."
+      },
+      {
+       "type": "bullet",
+       "text": "5) Repita as palavras dela + valide: “então gestão de gente, faz sentido pelo jeito que você falou”."
+      },
+      {
+       "type": "bullet",
+       "text": "6) Âncora de nome + 1 detalhe pessoal e encerre: “Ainda me conta amanhã sobre o mina?” (se tiver combinação)."
+      }
+     ]
+    },
+    {
+     "slug": "licao-69",
+     "title": "Cenário 2 — Descobrir uma mentira de um amigo ou colega",
+     "summary": "",
+     "durationMin": 6,
+     "kind": "lesson",
+     "order": 2,
+     "blocks": [
+      {
+       "type": "bullet",
+       "text": "1) Baseline com 3 perguntas verdadeiras sobre o que você <b>sabe</b> (horário do almoço, clima...)."
+      },
+      {
+       "type": "bullet",
+       "text": "2) Desvio: toque um tema neutro, veja o desconforto sumir. Volte ao tema quente, veja voltar."
+      },
+      {
+       "type": "bullet",
+       "text": "3) Pergunta-teste com detalhe falso (“...e você estava de <i>carro</i>, certo?”). Ajuste conforme a resposta."
+      },
+      {
+       "type": "bullet",
+       "text": "4) Silêncio de 5-8s pós-resposta vaga. O detalhe extra que sair é ouro."
+      },
+      {
+       "type": "bullet",
+       "text": "5) Nunca denuncie na hora — guarde como trunfo e deixe a porta honrosa aberta."
+      }
+     ]
+    },
+    {
+     "slug": "licao-70",
+     "title": "Cenário 3 — Numa reunião de trabalho, virar a voz da sala",
+     "summary": "",
+     "durationMin": 7,
+     "kind": "lesson",
+     "order": 3,
+     "blocks": [
+      {
+       "type": "bullet",
+       "text": "1) Chegue antes: scan do layout, quem conversa com quem, quem decide (quem os outros olham ao falar)."
+      },
+      {
+       "type": "bullet",
+       "text": "2) Registre os pontos de orgulho de cada um (usou de âncora)."
+      },
+      {
+       "type": "bullet",
+       "text": "3) Fale depois que as duas maiores vozes falarem; comece concordando com um ponto real de cada um (“no que o Fernando falou sobre a base de clientes...”)."
+      },
+      {
+       "type": "bullet",
+       "text": "4) Traga 1 dado observado do ambiente (planilha, parede, marca) — nada de informação inventada. Autoridade honesta."
+      },
+      {
+       "type": "bullet",
+       "text": "5) Feche com pergunta escopada (andaime): “se a gente garantir isso aqui, o resto dá pra resolver, certo?” — compromisso coletivo leve."
+      }
+     ]
+    },
+    {
+     "slug": "licao-71",
+     "title": "Cenário 4 — Ler o clima de um ambiente antes de agir",
+     "summary": "",
+     "durationMin": 6,
+     "kind": "lesson",
+     "order": 4,
+     "blocks": [
+      {
+       "type": "bullet",
+       "text": "1) Porta: pare 2 segundos, olhe os três “focos de energia” (quem fala mais, quem escuta mais, quem parece no comando)."
+      },
+      {
+       "type": "bullet",
+       "text": "2) Mova-se devagar, cumprimente os que estão na periferia — a periferia vê tudo e fala pouco."
+      },
+      {
+       "type": "bullet",
+       "text": "3) Observe as duas mudanças bruscas: quem silencia no seu tema, quem muda de lugar, quem olha o relógio."
+      },
+      {
+       "type": "bullet",
+       "text": "4) Saia com 3 pistas anotadas mentalmente para reaparecer com força no tema seguinte."
+      },
+      {
+       "type": "exercise",
+       "text": "MTD22 — Montagem do cenário. Escolha UM cenário acima para treinar esta semana. Execute 3 vezes e filme a própria leitura com a câmera do celular (só para sua evolução). Compare: o que acelerou entre a 1ª e a 3ª vez?"
+      }
+     ]
+    }
+   ],
+   "quiz": null
+  },
+  {
+   "slug": "capitulo-15",
+   "title": "15. Plano de treino — 30 dias",
+   "summary": "Dias 1-2: MTD1 (diário), MTD3 (supermercado), MTD4 (foto).",
+   "lessons": [
+    {
+     "slug": "licao-72",
+     "title": "Semana 1 — Alimentar o olho",
+     "summary": "",
+     "durationMin": 4,
+     "kind": "lesson",
+     "order": 1,
+     "blocks": [
+      {
+       "type": "bullet",
+       "text": "Dias 1-2: MTD1 (diário), MTD3 (supermercado), MTD4 (foto)."
+      },
+      {
+       "type": "bullet",
+       "text": "Dias 3-4: MTD5 (fora do lugar), MTD9 (microexpressões no espelho), MTD10 (3 gestos)."
+      },
+      {
+       "type": "bullet",
+       "text": "Dias 5-7: revisar as 12 dimensões do cap. 3; haunt rodando MTD3 e MTD5 a cada saída."
+      }
+     ]
+    },
+    {
+     "slug": "licao-73",
+     "title": "Semana 2 — Leitura a frio e memória",
+     "summary": "",
+     "durationMin": 4,
+     "kind": "lesson",
+     "order": 2,
+     "blocks": [
+      {
+       "type": "bullet",
+       "text": "Dias 8-9: MTD6 (Barnum testado), MTD8 (leitura de vitrine)."
+      },
+      {
+       "type": "bullet",
+       "text": "Dia 10: MTD7 (conversa-caixinha — só abertura + pausa)."
+      },
+      {
+       "type": "bullet",
+       "text": "Dias 11-13: MTD14 (palácio), MTD15 (nomes em festa), MTD16 (baralho)."
+      }
+     ]
+    },
+    {
+     "slug": "licao-74",
+     "title": "Semana 3 — Linguagem do corpo e mentira",
+     "summary": "",
+     "durationMin": 3,
+     "kind": "lesson",
+     "order": 3,
+     "blocks": [
+      {
+       "type": "bullet",
+       "text": "Dias 14-16: MTD9 repetido em vídeos; MTD11 (teste do desvio) com amigo; MTD12 (2 passadas no podcast)."
+      },
+      {
+       "type": "bullet",
+       "text": "Dias 17-18: MTD13 (espelho em conversa casual) + revisão do cap. 6 (baseline, 3 perguntas)."
+      }
+     ]
+    },
+    {
+     "slug": "licao-75",
+     "title": "Semana 4 — Influência, entrevista e campo",
+     "summary": "",
+     "durationMin": 4,
+     "kind": "lesson",
+     "order": 4,
+     "blocks": [
+      {
+       "type": "bullet",
+       "text": "Dias 19-20: MTD17 (pressuposições) + MTD18 (reciprocidade)."
+      },
+      {
+       "type": "bullet",
+       "text": "Dias 21-23: MTD19 (roteiro de entrevista), MTD20 (treino do 1 segundo), MTD21 (personas)."
+      },
+      {
+       "type": "bullet",
+       "text": "Dias 24-30: MTD22 (cenário escolhido x3), repetir MTD3, MTD5, MTD7, MTD11 em carga; celebração de 30 dias com uma autoavaliação por escrito (o que mudou, o que falta)."
+      }
+     ]
+    },
+    {
+     "slug": "licao-76",
+     "title": "Como manter",
+     "summary": "",
+     "durationMin": 4,
+     "kind": "lesson",
+     "order": 5,
+     "blocks": [
+      {
+       "type": "bullet",
+       "text": "Rotina de 10 minutos ao dia: 5 observações no MTD1 + 1 palácio de memória + 1 microexpressão no espelho."
+      },
+      {
+       "type": "bullet",
+       "text": "Revise o manual a cada 2 semanas (a 2ª leitura revela camadas)."
+      },
+      {
+       "type": "bullet",
+       "text": "Regra do mergulho: proibido usar “palavrões” da leitura fria em quem não pediu. Treinar em contexto real é diferente de invadir."
+      }
+     ]
+    }
+   ],
+   "quiz": null
+  },
+  {
+   "slug": "capitulo-16",
+   "title": "16. Ética — o limite entre ferramenta e charlatanismo",
+   "summary": "Patrick Jane foi charlatão e depois virou consultor honesto. O manual respeita essa virada: técnica sem ética é fraude; técnica com ética é ofício. Quatro compr",
+   "lessons": [
+    {
+     "slug": "licao-77",
+     "title": "Visão geral",
+     "summary": "Patrick Jane foi charlatão e depois virou consultor honesto. O manual respeita essa virada: técnica sem ética é fraude; técnica com ética é ofício. Quatro compromissos nã",
+     "durationMin": 7,
+     "kind": "lesson",
+     "order": 1,
+     "blocks": [
+      {
+       "type": "p",
+       "text": "Patrick Jane foi charlatão e depois virou consultor honesto. O manual respeita essa virada: técnica sem ética é fraude; técnica com ética é ofício. Quatro compromissos não negociáveis:"
+      },
+      {
+       "type": "bullet",
+       "text": "<b>Consentimento:</b> se você “le” alguém que não pediu, faça disso um insight educado e reversível — nunca uma arma. “Posso te contar o que percebi?” é cortesia que transforma curiosidade em troca justa."
+      },
+      {
+       "type": "bullet",
+       "text": "<b>Verdade sobre a natureza da técnica:</b> você não lê mentes; lê pistas e calibra probabilidades. Continue de mãos limpas com as pessoas da sua vida: o superpoder honesto que isso cria é mais raro que o truque."
+      },
+      {
+       "type": "bullet",
+       "text": "<b>Não causar dano:</b> nada de usar leitura a frio para vender golpe, manipular emoções frágeis, ferrar concorrentes ou bisbilhotar intimidades sem convite. O poder real exige responsabilidade real."
+      },
+      {
+       "type": "bullet",
+       "text": "<b>Manter a própria integridade:</b> use as técnicas para <i>entender</i> e <i>ajudar</i> (empatia de precisão), não para triunfar sobre os outros. O melhor mentalista é o que faz a outra pessoa se sentir <b>vista e valiosa</b>."
+      },
+      {
+       "type": "p",
+       "text": "Esse é o verdadeiro ato final do manual: transformar o olhar afiado em gentileza calibrada. É o que separa o mágico engraçado do vigarista."
+      }
+     ]
+    }
+   ],
+   "quiz": null
+  },
+  {
+   "slug": "capitulo-17",
+   "title": "17. Glossário",
+   "summary": "Baseline: padrão comportamental normal de alguém; referência para comparar desvios.",
+   "lessons": [
+    {
+     "slug": "licao-78",
+     "title": "Visão geral",
+     "summary": "",
+     "durationMin": 14,
+     "kind": "lesson",
+     "order": 1,
+     "blocks": [
+      {
+       "type": "bullet",
+       "text": "<b>Baseline:</b> padrão comportamental normal de alguém; referência para comparar desvios."
+      },
+      {
+       "type": "bullet",
+       "text": "<b>Bait (isca declarativa):</b> afirmação que provoca correção/confirmação — a reação entrega a pista."
+      },
+      {
+       "type": "bullet",
+       "text": "<b>Boat statement (barco flutuante):</b> frase vaga que a pessoa ancorar com os próprios detalhes."
+      },
+      {
+       "type": "bullet",
+       "text": "<b>Cold reading (leitura a frio):</b> conjunto de técnicas para parecer saber da pessoa usando probabilidade + observação + feedback."
+      },
+      {
+       "type": "bullet",
+       "text": "<b>Efeito Barnum/Forer:</b> tendência de aceitar descrições genéricas como “feitas para mim”."
+      },
+      {
+       "type": "bullet",
+       "text": "<b>Embedded command:</b> comando instalado dentro de uma frase por pausa e entonação."
+      },
+      {
+       "type": "bullet",
+       "text": "<b>Espelhamento:</b> adotar postura, tom e ritmo do outro para criar afinidade."
+      },
+      {
+       "type": "bullet",
+       "text": "<b>Microexpressão:</b> expressão facial universal com duração de fração de segundo."
+      },
+      {
+       "type": "bullet",
+       "text": "<b>Palácio da memória (método de locus):</b> técnica de memória que associa itens a lugares conhecidos."
+      },
+      {
+       "type": "bullet",
+       "text": "<b>Pressuposição:</b> afirmação embutida de algo como já verdadeiro (“quando você me contar...”)."
+      },
+      {
+       "type": "bullet",
+       "text": "<b>Rainbow ruse (arco-íris):</b> apresentar um espectro de possibilidades para garantir acerto percebido."
+      },
+      {
+       "type": "bullet",
+       "text": "<b>Rapport:</b> clima de confiança e sintonia que favorece abertura."
+      },
+      {
+       "type": "bullet",
+       "text": "<b>Teste do desvio:</b> compare o estresse de um tema vigiado em relação a temas neutros."
+      },
+      {
+       "type": "bullet",
+       "text": "<b>Yes-set:</b> sequência de afirmações inegáveis que prepara o “sim” seguinte."
+      }
+     ]
+    }
+   ],
+   "quiz": null
+  },
+  {
+   "slug": "capitulo-18",
+   "title": "18. Referências e leituras recomendadas",
+   "summary": "The Mentalist (2008-2015) — série de TV, CBS. Fonte de inspiração do manual.",
+   "lessons": [
+    {
+     "slug": "licao-79",
+     "title": "Visão geral",
+     "summary": "Nota final: este é um guia educativo de psicologia aplicada. Nenhuma técnica substitui o julgamento, o consentimento e a ética. Pratique como se a vida fosse um laboratór",
+     "durationMin": 12,
+     "kind": "lesson",
+     "order": 1,
+     "blocks": [
+      {
+       "type": "bullet",
+       "text": "<i>The Mentalist</i> (2008-2015) — série de TV, CBS. Fonte de inspiração do manual."
+      },
+      {
+       "type": "bullet",
+       "text": "Paul Ekman & Wallace Friesen — <i>emotions revealed</i> (microexpressões e emoções básicas)."
+      },
+      {
+       "type": "bullet",
+       "text": "Robert Cialdini — <i>Influence: The Psychology of Persuasion</i> (os 6 princípios)."
+      },
+      {
+       "type": "bullet",
+       "text": "Bertram R. Forer — “The Fallacy of Personal Validation” (1949) (efeito Barnum/Forer)."
+      },
+      {
+       "type": "bullet",
+       "text": "Ian Rowland — <i>The Full Facts Book of Cold Reading</i> (referência clássica de cold reading)."
+      },
+      {
+       "type": "bullet",
+       "text": "Derren Brown — <i>Tricks of the Mind</i> (mentalismo, memória e leitura a frio)."
+      },
+      {
+       "type": "bullet",
+       "text": "Kevin Hogan — <i>The Psychology of Persuasion</i> (linguagem e influência)."
+      },
+      {
+       "type": "bullet",
+       "text": "Harry Lorayne & Jerry Lucas — <i>The Memory Book</i> (palácio da memória e reforço espaçado)."
+      },
+      {
+       "type": "bullet",
+       "text": "Mark Bowden — <i>Winning Body Language</i> (postura e presença)."
+      },
+      {
+       "type": "p",
+       "text": "<b>Nota final:</b> este é um guia educativo de psicologia aplicada. Nenhuma técnica substitui o julgamento, o consentimento e a ética. Pratique como se a vida fosse um laboratório — e as pessoas, parceiras de aprendizado, nunca cobaias."
+      }
+     ]
+    }
+   ],
+   "quiz": null
+  }
+ ]
+}

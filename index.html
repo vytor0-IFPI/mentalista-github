@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-BR" class="h-full antialiased">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="Plataforma de cursos de observação, leitura a frio, rapport, memória e persuasão, inspirado no mentalista mais famoso da TV."
+    />
+    <meta
+      name="keywords"
+      content="mentalismo,leitura a frio,observação,cold reading,Patrick Jane,curso"
+    />
+    <title>O Método Patrick Jane — Curso de observação e leitura a frio</title>
+    <script>
+      try {
+        if (localStorage.getItem("mj_theme") === "dark" || (!localStorage.getItem("mj_theme") && matchMedia("(prefers-color-scheme: dark)").matches)) {
+          document.documentElement.classList.add("dark");
+          document.documentElement.style.colorScheme = "dark";
+        }
+      } catch (e) {}
+    </script>
+  </head>
+  <body class="bg-bg min-h-full">
+    <div id="root"></div>
+    <script type="module" src="/src/main.jsx"></script>
+  </body>
+</html>

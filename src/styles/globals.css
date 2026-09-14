@@ -1,0 +1,167 @@
+@import "tailwindcss";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+:root {
+  --bg: #f6f5f2;
+  --card: #ffffff;
+  --body: #101014;
+  --muted: #62616b;
+  --line: rgba(16, 16, 20, 0.12);
+  --soft: #eef0ec;
+  --goldsoft: #f3eedd;
+  --panel-rgb: 16, 16, 20;
+}
+
+.dark {
+  --bg: #050507;
+  --card: #0c0c11;
+  --body: #e9e7e0;
+  --muted: #86848f;
+  --line: rgba(233, 231, 224, 0.1);
+  --soft: #0e1214;
+  --goldsoft: #17140c;
+  --panel-rgb: 233, 231, 224;
+}
+
+@theme {
+  --color-ink: #050507;
+  --color-cream: #f6f5f2;
+  --color-gold: #c8a95c;
+  --color-gold-soft: #e9d9a6;
+  --color-navy: #1b2733;
+}
+
+@theme inline {
+  --color-bg: var(--bg);
+  --color-card: var(--card);
+  --color-body: var(--body);
+  --color-muted: var(--muted);
+  --color-line: var(--line);
+  --color-soft: var(--soft);
+  --color-goldsoft: var(--goldsoft);
+  --color-background: var(--bg);
+  --color-foreground: var(--body);
+  --font-sans: "Geist", ui-sans-serif, system-ui, -apple-system, "Segoe UI",
+    Roboto, Ubuntu, "Helvetica Neue", Arial, sans-serif;
+  --font-mono: "Geist Mono", ui-monospace, SFMono-Regular, Menlo, Consolas,
+    "Liberation Mono", monospace;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: var(--bg);
+  color: var(--body);
+  -webkit-font-smoothing: antialiased;
+}
+
+::selection {
+  background: #c8a95c;
+  color: #050507;
+}
+
+.panel {
+  border: 1px solid var(--line);
+  background: color-mix(in srgb, var(--card) 86%, transparent);
+  backdrop-filter: blur(12px);
+}
+
+.grid-hairline {
+  background-image:
+    linear-gradient(to right, rgba(200, 169, 92, 0.05) 1px, transparent 1px),
+    linear-gradient(to bottom, rgba(200, 169, 92, 0.05) 1px, transparent 1px);
+  background-size: 44px 44px;
+}
+
+.hero-glow {
+  text-shadow:
+    0 0 24px rgba(200, 169, 92, 0.35),
+    0 0 64px rgba(200, 169, 92, 0.18);
+}
+
+.sys-label {
+  font-family: var(--font-sans);
+  font-size: 10px;
+  line-height: 1.4;
+  letter-spacing: 0.28em;
+  text-transform: uppercase;
+}
+
+.btn-primary {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  border-radius: 10px;
+  border: 1px solid rgba(200, 169, 92, 0.4);
+  background: #c8a95c;
+  color: #050507;
+  font-weight: 600;
+  padding: 0.75rem 1.5rem;
+  transition: filter 0.15s ease, transform 0.15s ease;
+}
+.btn-primary:hover {
+  filter: brightness(1.08);
+  transform: translateY(-1px);
+}
+
+.btn-ghost {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  border-radius: 10px;
+  border: 1px solid var(--line);
+  background: transparent;
+  color: var(--body);
+  font-weight: 500;
+  padding: 0.75rem 1.5rem;
+  transition: border-color 0.15s ease, color 0.15s ease;
+}
+.btn-ghost:hover {
+  border-color: rgba(200, 169, 92, 0.5);
+  color: #c8a95c;
+}
+
+@keyframes pulse-dot {
+  0%,
+  100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.25;
+  }
+}
+
+.pulse-dot {
+  width: 6px;
+  height: 6px;
+  border-radius: 9999px;
+  background: #c8a95c;
+  animation: pulse-dot 2s ease-in-out infinite;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  body,
+  header,
+  footer,
+  section,
+  div,
+  button,
+  a,
+  input,
+  span,
+  p,
+  h1,
+  h2,
+  h3,
+  li {
+    transition:
+      background-color 0.2s ease,
+      border-color 0.2s ease,
+      color 0.2s ease;
+  }
+}
